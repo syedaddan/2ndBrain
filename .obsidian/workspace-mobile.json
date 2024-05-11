@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "7c24048f6d8a4df7",
+    "type": "split",
+    "children": [
+      {
+        "id": "69707bd658cb4a5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d52c50e41848d5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🌍 Atlas/Dreams/Travel the World.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11c419c7222f65c2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🌍 Atlas/Things/Wants/Headphones.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "cd25eaedab2af2f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🌍 Atlas/Things/🪧.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "791610f2bc9bfde2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "28f203de795a9ebc",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "3cd04c1bc3736d73",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5d30ebefa9671a7f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d714f3321602f2b2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "58c7b323a98ecb99",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      },
+      {
+        "id": "13250899ab85e9b8",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "123edac78398c87a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d575bbbfa0538b78",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "8f3240a76ae42894",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "🌍 Atlas/Things/🪧.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1d0a28a544586b68",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "🌍 Atlas/Things/🪧.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "26ca5145b89b9ab3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "🌍 Atlas/Things/🪧.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "cd25eaedab2af2f1",
+  "lastOpenFiles": [
+    "🌍 Atlas/Things/Wants/Piano.md",
+    "🌍 Atlas/Things/Wants/Laptop.md",
+    "🌍 Atlas/Things/Wants/Phone.md",
+    "🌍 Atlas/Things/🪧.md",
+    "🌍 Atlas/Things/Wants/Bike.md",
+    "🌍 Atlas/Things/Wants/Headphones.md",
+    "🌍 Atlas/Things/Needs/Earbuds.md",
+    "🌍 Atlas/Things/Wants.md",
+    "🌍 Atlas/Things/Needs.md",
+    "🌍 Atlas/Things/Wants",
+    "🌍 Atlas/Things/Needs",
+    "🌍 Atlas/Things to Keep/MetaMask.md",
+    "🌍 Atlas/Songs/Spotify.md",
+    "🌍 Atlas/Songs/Lost songs.md",
+    "🌍 Atlas/Songs/Googoo gaagaa songs.md",
+    "🌍 Atlas/Movies/10 by 10 movies.md",
+    "🌍 Atlas/Games/Games to buy.md",
+    "🌍 Atlas/Games/Games to play.md",
+    "🌍 Atlas/Games/Games to play in the future.md",
+    "🌍 Atlas/Dreams/🪧.md",
+    "🌍 Atlas/Books/Good books.md",
+    "🌍 Atlas/Books/BookTok Books.md",
+    "🌍 Atlas/Books/Classic books to read.md",
+    "🌍 Atlas/Books/Books to read.md",
+    "🌍 Atlas/Books/Books to listen to.md",
+    "🌍 Atlas/Books/Books to buy.md",
+    "🌍 Atlas/Anime/10 by 10 anime.md",
+    "🌍 Atlas/Anime/Anime to rewatch.md",
+    "🌍 Atlas/Dreams",
+    "🖼️ Attachments/H.png"
+  ]
+}

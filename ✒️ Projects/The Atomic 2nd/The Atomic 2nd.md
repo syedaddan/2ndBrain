@@ -1,0 +1,25 @@
+# The Story
+
+A Story about [[The 2nd]] who left his home after a heated argument with [[The Parents]] and because of the penned up rage that he had kept in his heart.
+
+He now does odd-jobs to sustain himself and to keep surviving. 
+
+# The World
+
+The world is a post-apocalyptic one, surviving a nuclear aftermath after **the great nuclear war** (*this title still needs reworking*) happened three years ago (timing needs working too). After the war, all the governments dissolved into one and all the borders demolished into none. Merging the countries into one supercontinent named [[Neo-pangaea]]. The [[Neo-pangaea]] is governed by a single government consisting of leaders from all the countries of [[The Old World]]. The areas that were beyond recovery from the nuclear strikes were abandoned and dubbed [[The Wastelands]], there is no knowing what horrors lurk there.
+
+# The Characters
+
+## 2nd's Family
+### [[The 2nd]]
+The story revolves around [[The 2nd]] and his adventures across the [[Neo-pangaea]] and eventually reaching [[The Wastelands]].  [[The 2nd]] has left the safety of [[The Parents]] after a heated argument circulating the economic stability of the family and that he was not providing enough to the family (the arguments were happening for a long time but this time, [[The 2nd]] had enough). [[The 2nd]] has good bonds with his brothers but not with his sister, just because [[The Sister]] carelessly spends all the money he so carefully gathers from his odd jobs.
+### [[The Eldest]]
+[[The Eldest]] is the eldest in [[The 2nd]]'s family. He is well loved by [[The Parents]] because he plays a pivotal role in the family by providing economical and emotional stability. The [[The Eldest]] is very close to the [[The 2nd]] and all of his siblings.
+
+### [[The Youngest]]
+[[The Youngest]] is the 3rd son in the family. He is underage. After [[The 2nd]] leaves the family, the butt of all penned up frustration of the family becomes [[The Youngest]] but he saw it coming and prepared himself for the cannons that were aimed his way both mentally and physically. He is close to his brothers but not his sister that much. The distraught goes beyond sibling rivalry.
+
+### [[The Sister]]
+[[The Sister]] is the only daughter in the family. She is well loved by the parents and [[The Eldest]] but not the [[The 2nd]] and [[The Youngest]] simply because she's spoiled beyond repair. Everything she needs is taken care of by the parents. She carelessly and thoughtlessly spends knowing that the family needs that money and it is very hard-earned by her bothers.
+
+### [[The Parents]]

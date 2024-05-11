@@ -1,0 +1,4 @@
+After traveling for months he decides to settle down on a place (he's been doing odd jobs to survive on the way and he does with such effectiveness that he gained a name for himself over the lands, the ""), almost all of the belongings he brought from his house has been replaced by something (including his hazmat suit because turns out it was defective and he was infected for a long time in the journey) but not the memorials ofc. 
+
+
+During his journey, the youngest sibling leaves the house too. He was extremely tormented and gained a motivation to leave the house because his elder brother left the house too to whom he was very close. But ofc he was not as experienced as his brother to survive in the nuclear world that is this world. Yet he survived due to constant learning from his brother and some luck as well. So he was surviving in the neo-pangeaa as well on his own.
