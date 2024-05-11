@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💭 Thoughts/Gameplan.md",
+                "file": "✒️ Projects/Familiar/🪧.md",
                 "mode": "source",
                 "source": false
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💭 Thoughts/Gameplan.md",
+                "file": "✒️ Projects/Familiar/🪧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💭 Thoughts/Gameplan.md",
+                "file": "✒️ Projects/Familiar/🪧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💭 Thoughts/Gameplan.md"
+                "file": "✒️ Projects/Familiar/🪧.md"
               }
             }
           }
@@ -195,6 +195,11 @@
   },
   "active": "7f23b4ec016106be",
   "lastOpenFiles": [
+    "✒️ Projects/NoBot/🪧.md",
+    "✒️ Projects/Familiar/🪧.md",
+    "💭 Thoughts/Gameplan.md",
+    "✒️ Projects/NoBot",
+    "✒️ Projects/Familiar",
     "💭 Thoughts/My College Roll Number.md",
     "Recording 20240512011716.webm",
     "🌍 Atlas/Dreams/🪧.md",
@@ -222,16 +227,12 @@
     "🌍 Atlas/Books/BookTok Books.md",
     "🌍 Atlas/Books/Classic books to read.md",
     "🦎 Templates/Notes.md",
-    "💭 Thoughts/Fucking Birthdays.md",
-    "🌍 Atlas/Things/Wants.md",
     "🖼️ Attachments/screenshot_2022-02-27-22-35-18-255_com.linkedin.android.jpg",
     "🖼️ Attachments/Pasted image 20231116161454.png",
     "🌍 Atlas/Things to Keep",
     "🌍 Atlas/Travel",
     "🌍 Atlas/Games",
     "🌍 Atlas/Songs",
-    "🌍 Atlas/Movies",
-    "🌍 Atlas/Anime",
     "Atlas/Dashboards/Control Centre.canvas"
   ]
 }
