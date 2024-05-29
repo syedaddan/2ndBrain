@@ -26,3 +26,5 @@ Do it yourself
 Domestic Girlfriend
 Welcome to the nhk
 Just because
+The Great pretender
+Mushoku tensei 

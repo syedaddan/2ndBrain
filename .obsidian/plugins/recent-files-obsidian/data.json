@@ -1,72 +1,164 @@
 {
   "recentFiles": [
     {
-      "basename": "🪧",
-      "path": "✒️ Projects/Familiar/🪧.md"
+      "basename": "Apparel Shit",
+      "path": "🌍 Atlas/Things/Buying/Apparel Shit.md"
     },
     {
-      "basename": "🪧",
-      "path": "✒️ Projects/NoBot/🪧.md"
+      "basename": "Accessory Shit",
+      "path": "🌍 Atlas/Things/Buying/Accessory Shit.md"
     },
     {
-      "basename": "Gameplan",
-      "path": "💭 Thoughts/Gameplan.md"
+      "basename": "Bike Shit",
+      "path": "🌍 Atlas/Things/Buying/Bike Shit.md"
     },
     {
-      "basename": "My College Roll Number",
-      "path": "💭 Thoughts/My College Roll Number.md"
+      "basename": "Gym Shit",
+      "path": "🌍 Atlas/Things/Buying/Gym Shit.md"
     },
     {
-      "basename": "🪧",
-      "path": "🌍 Atlas/Dreams/🪧.md"
+      "basename": "Hygiene Shit",
+      "path": "🌍 Atlas/Things/Buying/Hygiene Shit.md"
     },
     {
-      "basename": "Games to play",
-      "path": "🌍 Atlas/Games/Games to play.md"
+      "basename": "Laptop Shit",
+      "path": "🌍 Atlas/Things/Buying/Laptop Shit.md"
     },
     {
-      "basename": "🧁 Hello there!",
-      "path": "🧁 Hello there!.md"
+      "basename": "Phone Shit",
+      "path": "🌍 Atlas/Things/Buying/Phone Shit.md"
     },
     {
-      "basename": "Games to buy",
-      "path": "🌍 Atlas/Games/Games to buy.md"
+      "basename": "Sound Shit",
+      "path": "🌍 Atlas/Things/Buying/Sound Shit.md"
     },
     {
       "basename": "🪧",
       "path": "🌍 Atlas/Things/🪧.md"
     },
     {
-      "basename": "Upcoming Games to play",
-      "path": "🌍 Atlas/Games/Upcoming Games to play.md"
+      "basename": "Notes",
+      "path": "🦎 Templates/Notes.md"
     },
     {
-      "basename": "Books to read",
-      "path": "🌍 Atlas/Books/Books to read.md"
-    },
-    {
-      "basename": "BookTok Books",
-      "path": "🌍 Atlas/Books/BookTok Books.md"
-    },
-    {
-      "basename": "Classic books to read",
-      "path": "🌍 Atlas/Books/Classic books to read.md"
-    },
-    {
-      "basename": "A very important question",
-      "path": "💭 Thoughts/A very important question.md"
-    },
-    {
-      "basename": "Maaheen's bday (in case she deletes the message)",
-      "path": "💭 Thoughts/Maaheen's bday (in case she deletes the message).md"
+      "basename": "One day after my suicide",
+      "path": "🗿 Stoned/One day after my suicide.md"
     },
     {
       "basename": "Birthdays",
       "path": "💭 Thoughts/Birthdays.md"
     },
     {
-      "basename": "The one anime with cat girl",
-      "path": "🌍 Atlas/Anime/The one anime with cat girl.md"
+      "basename": "Maaheen's bday (in case she deletes the message)",
+      "path": "🗿 Stoned/Maaheen's bday (in case she deletes the message).md"
+    },
+    {
+      "basename": "Gameplan",
+      "path": "🗿 Stoned/Gameplan.md"
+    },
+    {
+      "basename": "A very important question",
+      "path": "💭 Thoughts/A very important question.md"
+    },
+    {
+      "basename": "MetaMask",
+      "path": "🗿 Stoned/MetaMask.md"
+    },
+    {
+      "basename": "26-05-24",
+      "path": "📋 Todos/26-05-24.md"
+    },
+    {
+      "basename": "🪧",
+      "path": "✒️ Projects/The Atomic 2nd/🪧.md"
+    },
+    {
+      "basename": "🪧",
+      "path": "✒️ Projects/Familiar/🪧.md"
+    },
+    {
+      "basename": "Day 2",
+      "path": "🌍 Atlas/Al Burhan/Murabbi Training/Day 2.md"
+    },
+    {
+      "basename": "Earbuds",
+      "path": "🌍 Atlas/Things/Needs/Earbuds.md"
+    },
+    {
+      "basename": "🧁 Hello there!",
+      "path": "🧁 Hello there!.md"
+    },
+    {
+      "basename": "Piano",
+      "path": "🌍 Atlas/Things/Wants/Piano.md"
+    },
+    {
+      "basename": "Bike",
+      "path": "🌍 Atlas/Things/Wants/Bike.md"
+    },
+    {
+      "basename": "Games to get in the new laptop",
+      "path": "🌍 Atlas/Games/Games to get in the new laptop.md"
+    },
+    {
+      "basename": "Games to play",
+      "path": "🌍 Atlas/Games/Games to play.md"
+    },
+    {
+      "basename": "Games to buy",
+      "path": "🌍 Atlas/Games/Games to buy.md"
+    },
+    {
+      "basename": "To watch",
+      "path": "🌍 Atlas/Movies/To watch.md"
+    },
+    {
+      "basename": "To rewatch",
+      "path": "🌍 Atlas/Movies/To rewatch.md"
+    },
+    {
+      "basename": "10 by 10 movies",
+      "path": "🌍 Atlas/Movies/10 by 10 movies.md"
+    },
+    {
+      "basename": "Upcoming Games to play",
+      "path": "🌍 Atlas/Games/Upcoming Games to play.md"
+    },
+    {
+      "basename": "Travel the World",
+      "path": "🌍 Atlas/Dreams/Travel the World.md"
+    },
+    {
+      "basename": "About",
+      "path": "💭 Thoughts/About.md"
+    },
+    {
+      "basename": "Series to watch",
+      "path": "🌍 Atlas/Series/Series to watch.md"
+    },
+    {
+      "basename": "Places - Must travel",
+      "path": "🌍 Atlas/Travel/Places - Must travel.md"
+    },
+    {
+      "basename": "Coffee_Original",
+      "path": "🖼️ Attachments/Coffee_Original.png"
+    },
+    {
+      "basename": "Coffee_2K",
+      "path": "🖼️ Attachments/Coffee_2K.png"
+    },
+    {
+      "basename": "Live in Japan",
+      "path": "🌍 Atlas/Dreams/Live in Japan.md"
+    },
+    {
+      "basename": "🪧",
+      "path": "🌍 Atlas/Dreams/🪧.md"
+    },
+    {
+      "basename": "Good books",
+      "path": "🌍 Atlas/Books/Good books.md"
     },
     {
       "basename": "Anime to watch defo",
@@ -81,80 +173,32 @@
       "path": "🌍 Atlas/Anime/10 by 10 anime.md"
     },
     {
-      "basename": "Places - Must travel",
-      "path": "🌍 Atlas/Travel/Places - Must travel.md"
+      "basename": "🪧",
+      "path": "✒️ Projects/EveryBot/🪧.md"
     },
     {
-      "basename": "Books to listen to",
-      "path": "🌍 Atlas/Books/Books to listen to.md"
+      "basename": "🪧",
+      "path": "✒️ Projects/NoBot/🪧.md"
     },
     {
-      "basename": "Books to buy",
-      "path": "🌍 Atlas/Books/Books to buy.md"
+      "basename": "My College Roll Number",
+      "path": "🗿 Stoned/My College Roll Number.md"
     },
     {
-      "basename": "Good books",
-      "path": "🌍 Atlas/Books/Good books.md"
+      "basename": "Books to read",
+      "path": "🌍 Atlas/Books/Books to read.md"
     },
     {
-      "basename": "Notes",
-      "path": "🦎 Templates/Notes.md"
+      "basename": "BookTok Books",
+      "path": "🌍 Atlas/Books/BookTok Books.md"
     },
     {
-      "basename": "H",
-      "path": "🖼️ Attachments/H.png"
+      "basename": "Classic books to read",
+      "path": "🌍 Atlas/Books/Classic books to read.md"
     },
     {
-      "basename": "One day after my suicide",
-      "path": "💭 Thoughts/One day after my suicide.md"
-    },
-    {
-      "basename": "screenshot_2022-02-27-22-35-18-255_com.linkedin.android",
-      "path": "🖼️ Attachments/screenshot_2022-02-27-22-35-18-255_com.linkedin.android.jpg"
-    },
-    {
-      "basename": "About",
-      "path": "💭 Thoughts/About.md"
-    },
-    {
-      "basename": "My dream jotted down",
-      "path": "✒️ Projects/The Atomic 2nd/In Progress/My dream jotted down.md"
-    },
-    {
-      "basename": "Spotify",
-      "path": "🌍 Atlas/Songs/Spotify.md"
-    },
-    {
-      "basename": "you can be king again",
-      "path": "🌍 Atlas/Anime/you can be king again.md"
-    },
-    {
-      "basename": "Stein's gate watch order",
-      "path": "🌍 Atlas/Anime/Stein's gate watch order.md"
-    },
-    {
-      "basename": "Good movies",
-      "path": "🌍 Atlas/Movies/Good movies.md"
-    },
-    {
-      "basename": "Good anime idk",
-      "path": "🌍 Atlas/Anime/Good anime idk.md"
-    },
-    {
-      "basename": "MetaMask",
-      "path": "🌍 Atlas/Things to Keep/MetaMask.md"
-    },
-    {
-      "basename": "10 anime",
-      "path": "🌍 Atlas/Anime/10 anime.md"
-    },
-    {
-      "basename": "The Atomic 2nd",
-      "path": "✒️ Projects/The Atomic 2nd/The Atomic 2nd.md"
-    },
-    {
-      "basename": "The Eldest",
-      "path": "✒️ Projects/The Atomic 2nd/Characters/2nd's Family/The Eldest.md"
+      "basename": "The one anime with cat girl",
+      "path": "🌍 Atlas/Anime/The one anime with cat girl.md"
     }
   ],
   "omittedPaths": [],

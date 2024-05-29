@@ -1,0 +1,3 @@
+- [ ] Phone lamination
+- [x] Phone back cover
+- [x] Phone screen protector

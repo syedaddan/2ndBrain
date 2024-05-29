@@ -1,0 +1,5 @@
+- [ ] Clothes
+- [ ] Shoes
+- [ ] Shades
+- [x] Bag
+- [x] Cap

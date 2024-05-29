@@ -1,0 +1,7 @@
+- [ ] Laptop bag
+- [ ] Laptop stickers
+- [ ] Laptop stand
+- [ ] Laptop pen
+- [x] Laptop lamination
+- [x] Laptop keyboard silicone cover
+- [x] Laptop smudge cleaner

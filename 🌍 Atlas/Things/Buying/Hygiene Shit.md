@@ -1,0 +1,5 @@
+- [ ] Soap
+- [ ] Toothpaste
+- [ ] Lip balm
+- [ ] Mirror
+- [ ] Comb

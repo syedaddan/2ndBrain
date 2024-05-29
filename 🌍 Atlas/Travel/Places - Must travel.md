@@ -2,7 +2,7 @@
 
 Turkey (Second Highest) - 40.5
 
-Japan (Personal 3rd) - 35
+Japan (Personal 2nd) - 35
 
 Switzerland (Personal 3rd) -  40
 
