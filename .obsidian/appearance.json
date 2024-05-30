@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "#ffffff",
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "baseFontSizeAction": true
 }

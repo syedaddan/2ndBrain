@@ -1,3 +1,3 @@
-Kemuri
-Blade
-Last sentinel
+[[Kemuri]]
+[[Blade]]
+[[Last sentinel]]

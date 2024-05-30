@@ -1,7 +1,8 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Extras/Attachments",
+  "attachmentFolderPath": "🖼️ Attachments",
   "newFileLocation": "folder",
   "newFileFolderPath": "💭 Thoughts",
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": true
 }

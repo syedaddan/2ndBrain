@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9a92e695e54f9af3",
+        "id": "84d3cee9a4676475",
         "type": "tabs",
         "children": [
           {
-            "id": "317b62df43d5dc30",
+            "id": "f1a7d644674c9a3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🦎 Templates/Notes.md",
+                "file": "🗿 Stoned/My Type.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "98cff4f985c35c61",
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🦎 Templates/Notes.md",
+                "file": "🗿 Stoned/My Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🦎 Templates/Notes.md",
+                "file": "🗿 Stoned/My Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🦎 Templates/Notes.md"
+                "file": "🗿 Stoned/My Type.md"
               }
             }
           },
@@ -187,30 +188,35 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": true
     }
   },
-  "active": "317b62df43d5dc30",
+  "active": "f1a7d644674c9a3d",
   "lastOpenFiles": [
-    "🗿 Stoned/One day after my suicide.md",
-    "💭 Thoughts/Birthdays.md",
-    "🗿 Stoned/Maaheen's bday (in case she deletes the message).md",
-    "🗿 Stoned/Gameplan.md",
-    "💭 Thoughts/A very important question.md",
-    "🗿 Stoned/MetaMask.md",
-    "📋 Todos/26-05-24.md",
-    "✒️ Projects/The Atomic 2nd/🪧.md",
-    "✒️ Projects/Familiar/🪧.md",
-    "🌍 Atlas/Al Burhan/Murabbi Training/Day 2.md",
-    "🌍 Atlas/Things/🪧.md",
+    "🌍 Atlas/Anime/Anime to rewatch.md",
+    "💭 Thoughts/Dune.md",
+    "💭 Thoughts/A Court of Thorns and Roses.md",
+    "🌍 Atlas/Travel/Places - Must travel.md",
     "🌍 Atlas/Things/Needs/Earbuds.md",
-    "🌍 Atlas/Things/Buying/Sound Shit.md",
     "🌍 Atlas/Things/Buying/Accessory Shit.md",
-    "🌍 Atlas/Things/Buying/Hygiene Shit.md",
-    "🌍 Atlas/Things/Buying/Gym Shit.md",
     "🌍 Atlas/Things/Buying/Apparel Shit.md",
-    "🌍 Atlas/Things/Buying/Bike Shit.md",
-    "🌍 Atlas/Things/Buying/Phone Shit.md",
-    "🌍 Atlas/Things/Buying/Laptop Shit.md",
-    "🌍 Atlas/Things/To Buy/Other Shit.md",
-    "🧁 Hello there!.md",
+    "🌍 Atlas/Songs/Spotify.md",
+    "🌍 Atlas/Songs/Lost songs.md",
+    "🌍 Atlas/Songs/Googoo gaagaa songs.md",
+    "🌍 Atlas/Series/Series to watch.md",
+    "🌍 Atlas/Movies/To watch.md",
+    "🌍 Atlas/Movies/To rewatch.md",
+    "🌍 Atlas/Movies/10 by 10 movies.md",
+    "🌍 Atlas/Games/Games to buy.md",
+    "🌍 Atlas/Dreams/🪧.md",
+    "🌍 Atlas/Dreams/Buy a good bike.md",
+    "🌍 Atlas/Dreams/Compose music.md",
+    "🌍 Atlas/Books/Classic books to read.md",
+    "🌍 Atlas/Books/BookTok Books.md",
+    "🌍 Atlas/Books/Books to buy.md",
+    "🌍 Atlas/Books/Books to listen to.md",
+    "🌍 Atlas/Books/Books to read.md",
+    "🌍 Atlas/Anime/you can be king again.md",
+    "🌍 Atlas/Anime/The one anime with cat girl.md",
+    "🌍 Atlas/Anime/Stein's gate watch order.md",
+    "Untitled.canvas",
     "🖼️ Attachments/Coffee_2K.png",
     "🖼️ Attachments/screenshot_2022-02-27-22-35-18-255_com.linkedin.android.jpg",
     "🖼️ Attachments/screenshot_2022-02-27-22-35-18-255_com.linkedin.android 1.jpg",
@@ -222,11 +228,6 @@
     "🖼️ Attachments/screenshot_2022-02-27-22-35-27-215_com.linkedin.android.jpg",
     "🖼️ Attachments/Screenshot_2023-11-11-21-33-56-593_app.rvx.android.youtube.jpg",
     "🖼️ Attachments/screenshot_2022-02-27-22-36-51-913_com.linkedin.android.jpg",
-    "Untitled.canvas",
-    "🌍 Atlas/Movies/10 by 10 movies.md",
-    "🌍 Atlas/Games/Upcoming Games to play.md",
-    "🌍 Atlas/Games/Games to play.md",
-    "🌍 Atlas/Games/Games to buy.md",
     "✒️ Projects/EveryBot",
     "✒️ Projects/NoBot",
     "✒️ Projects/Familiar",

@@ -1,31 +1,31 @@
-- [ ] Monster
-- [ ] Noragami
-- [ ] Mob psycho
-- [ ] Deadman wonderland
-- [ ] Samurai champloo
-- [ ] Tower of god
-- [ ] Bunguo stray dogs
-- [ ] Dr. Stone
-- [ ] Monogatari (yessssssss thissss)
-- [ ] Black clover (absofuckinglutely)
-- [ ] One piece (😬)
-- [ ] Mushishi
-- [ ] Mushoku tensei
-- [ ] Josse, the tiger and the fish
-- [ ] Gintama (🤲)
-- [ ] Anohana
-- [ ] Children of the sea
-- [ ] Nier automata 
-- [ ] Wonder egg priority
-- [ ] Assassination classroom
-- [ ] Parasyte
-- [ ] Claymore
-- [ ] Nichijuo
-- [ ] Golden kamuy
-- [ ] 91 days
-- [x] Welcome to the nhk
-- [ ] Clannad
-- [ ] Kimi ni Todoke
-- [ ] Btooom
-- [ ] Kakegurui
-- [ ] Scavengers reign
+- [ ] [[Monster]]
+- [ ] [[Noragami]]
+- [ ] [[Mob psycho]]
+- [ ] [[Deadman wonderland]]
+- [ ] [[Samurai champloo]]
+- [ ] [[Tower of god]]
+- [ ] [[Bunguo stray dogs]]
+- [ ] [[Dr. Stone]]
+- [ ] [[Monogatari]] (yessssssss thissss)
+- [ ] [[Black clover]] (absofuckinglutely)
+- [ ] [[One piece]] (😬)
+- [ ] [[Mushishi]]
+- [x] [[Mushoku tensei]]
+- [ ] [[Josse, the tiger and the fish]]
+- [ ] [[Gintama]] (🤲)
+- [ ] [[Anohana]]
+- [ ] [[Children of the sea]]
+- [ ] [[Nier automata ]]
+- [ ] [[Wonder egg priority]]
+- [ ] [[Assassination classroom]]
+- [ ] [[Parasyte]]
+- [ ] [[Claymore]]
+- [ ] [[Nichijuo]]
+- [ ] [[Golden kamuy]]
+- [ ] [[91 days]]
+- [x] [[Welcome to the nhk]]
+- [ ] [[Clannad]]
+- [ ] [[Kimi ni Todoke]]
+- [ ] [[Btooom]]
+- [ ] [[Kakegurui]]
+- [ ] [[Scavengers reign]]

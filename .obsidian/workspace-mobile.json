@@ -37,12 +37,8 @@
             "id": "cd25eaedab2af2f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌍 Atlas/Things/Buying/Apparel Shit.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -140,7 +136,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🌍 Atlas/Things/Buying/Apparel Shit.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -157,7 +152,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "🌍 Atlas/Things/Buying/Apparel Shit.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -168,9 +162,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "🌍 Atlas/Things/Buying/Apparel Shit.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -192,8 +184,9 @@
   },
   "active": "cd25eaedab2af2f1",
   "lastOpenFiles": [
-    "🌍 Atlas/Things/Buying/Accessory Shit.md",
+    "🗿 Stoned/My Type.md",
     "🌍 Atlas/Things/Buying/Apparel Shit.md",
+    "🌍 Atlas/Things/Buying/Accessory Shit.md",
     "🌍 Atlas/Things/Buying/Bike Shit.md",
     "🌍 Atlas/Things/Buying/Gym Shit.md",
     "🌍 Atlas/Things/Buying/Hygiene Shit.md",
@@ -221,7 +214,6 @@
     "🌍 Atlas/Al Burhan/Murabbi Training/Day 2.md",
     "🌍 Atlas/Al Burhan/Murabbi Training",
     "🌍 Atlas/Al Burhan",
-    "🌍 Atlas/Dreams/🪧.md",
     "🌍 Atlas/Things/To Buy",
     "🗿 Stoned",
     "✒️ Projects/NoBot",

@@ -1,2 +1,2 @@
-Fantastic Mr Fox
-Pan's labyrinth
+[[Fantastic Mr Fox]]
+[[Pan's labyrinth]]

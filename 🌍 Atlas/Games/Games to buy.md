@@ -1,3 +1,3 @@
-Civilization 6
-Fallout 4
-Elden Ring
+[[Civilization 6]]
+[[Fallout 4]]
+[[Elden Ring]]

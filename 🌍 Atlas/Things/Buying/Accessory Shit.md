@@ -1,2 +1,3 @@
+- [ ] Cloth
 - [x] Mouse 
 - [x] Keyboard

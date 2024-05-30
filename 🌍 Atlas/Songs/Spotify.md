@@ -1,22 +1,22 @@
-- You broke me first
-- Head heart
-- Sweater weather
-- I wanna be your slave
-- Traitor
-- Heartbreak anniversary
-- Dynamite
-- The business
-- Mood - 20
-- Deja vu
-- Leave the door open
-- Save your tears
-- Bad habits
-- Beggin
-- Heat waves
-- Blinding lights
-- Kiss me more - 7
-- Peaches
-- Levitating
-- Good 4 u
-- Stay - 3
-- Driver's license
+- [[You broke me first]]
+- [[Head heart]]
+- [[Sweater weather]]
+- [[I wanna be your slave]]
+- [[Traitor]]
+- [[Heartbreak anniversary]]
+- [[Dynamite]]
+- [[The business]]
+- [[Mood]] - 20
+- [[Deja vu]]
+- [[Leave the door open]]
+- [[Save your tears]]
+- [[Bad habits]]
+- [[Beggin]]
+- [[Heat waves]]
+- [[Blinding lights]]
+- [[Kiss me more]] - 7
+- [[Peaches]]
+- [[Levitating]]
+- [[Good 4 u]]
+- [[Stay]] - 3
+- [[Driver's license]]

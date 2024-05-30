@@ -1,20 +1,19 @@
-# **Jojo**
+[[Jojo]]
+[[Sonny boy]]
+[[Attack on Titan]]
+[[Do it yourself]]
+[[Steins gate]]
+[[Kaguya sama]]
+[[Call of the night]]
+[[Vinland saga]]
+[[A place further than the universe]]
+[[Rascal does not dream of bunny girl senpai]]
+[[Insomniacs]]
+[[Komi]]
+[[Daily lives of high school boys]]
+[[Goodbye donglees]]
 
-Sonny boy
-Attack on Titan
-Do it yourself
-Steins gate
-Kaguya sama
-Call of the night
-Vinland saga
-A place further than the universe
-Rascal does not dream of bunny girl senpai
-Insomniacs
-Komi
-Daily lives of high school boys
-Goodbye donglees
+[[Oregairu]]
+[[Shirobako]]
 
-Oregairu
-Shirobako
-
-Just because 
+[[Just because]]

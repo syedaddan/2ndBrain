@@ -1,1 +1,1 @@
-Hotarubi no mori e
+[[Hotarubi no mori e]]
