@@ -1,0 +1,7 @@
+Hello, I'm Syed Addan, founder of C'est La Vie, where we're pioneering a new approach to mental health with our flagship product, Familiar. At C'est La Vie, we understand that while many need mental health support, barriers like cost, stigma, and privacy concerns often stand in the way. That's why we created Familiar, an AI-powered avatar that offers personalized, private mental health coaching at no cost during our beta phase.
+
+Familiar isn't just another mental health app. It's a compassionate, AI-driven companion that talks with users, listens without judgment, and tracks mental health progress through an easy-to-use dashboard. This innovative tool is designed to make users feel comfortable and engaged, helping them manage their mental health through interactive, gamified updates.
+
+But what happens when someone needs more than just an avatar? This is where C'est La Vie's unique service steps in. Our in-house therapists are seamlessly integrated into the Familiar system. When Familiar detects a user's condition may be escalating or needs professional attention, it triggers an alert, and one of our expert therapists can step in to provide necessary, real-time support.
+
+Available currently on the web and soon on mobile, Familiar by C'est La Vie is here to make mental health care accessible, effective, and secure, ensuring no one has to navigate their mental health journey alone. Join us as we change the landscape of mental wellness support.

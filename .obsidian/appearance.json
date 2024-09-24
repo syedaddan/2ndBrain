@@ -1,7 +1,9 @@
 {
-  "accentColor": "#ffffff",
-  "cssTheme": "Blue Topaz",
-  "theme": "obsidian",
+  "accentColor": "#8400c2",
+  "cssTheme": "AnuPpuccin",
+  "theme": "moonstone",
   "nativeMenus": false,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "baseFontSize": 15
 }

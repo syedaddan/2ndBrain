@@ -1,3 +1,5 @@
 {
-  "folder": "Timeline"
+  "folder": "📅 Timeline",
+  "template": "🦎 Templates/Daily Note",
+  "autorun": true
 }

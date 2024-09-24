@@ -1,0 +1,11 @@
+## 24-09-24
+- [ ] buy the cosmetics (**ask zaify**) ()
+- [ ] buy glasses
+- [ ] buy airpods (from Dubai Plaza today)
+- [ ] fill the expense tracker 
+- [ ] buy new clothes
+- [ ] buy shoes 
+- [ ] buy helmet
+- [ ] call alfa rep (limit, charges, cancellation procedure, name change procedure)
+- [ ] buy stepsils
+- [ ] check upwork

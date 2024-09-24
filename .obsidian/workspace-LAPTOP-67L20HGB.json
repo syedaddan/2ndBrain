@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "f34004063e690f8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "513084e59b20f660",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c4aee3e070b76ae",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "008749b9c8abc45b",
+    "type": "split",
+    "children": [
+      {
+        "id": "45a810f60f855738",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c0f051a6e601b64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fdb94ec05481b2b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47ba68b5a09dd6c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "300fb5abaab58fd2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2efd443b8824d5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d2146535dc65ade",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "650a5a33623c91d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a2e418f097a7913",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b4e299f4aec81fc8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9c4aee3e070b76ae",
+  "lastOpenFiles": [
+    "🌍 Atlas/Things/Wants/Laptop.md",
+    "🌍 Atlas/Things/Wants/Phone.md",
+    "🌍 Atlas/Things/Wants/Piano.md",
+    "🌍 Atlas/Things/Wants/Headphones.md",
+    "🌍 Atlas/Things/Wants/Bike.md",
+    "🌍 Atlas/Things/Wants",
+    "🌍 Atlas/Things/Needs/Earbuds.md",
+    "🌍 Atlas/Things/Needs",
+    "🌍 Atlas/Dreams/Live in Japan.md",
+    "🌍 Atlas/Dreams/Go to Hintertux for honeymoon.md",
+    "🌍 Atlas/Dreams/Travel the World.md",
+    "🌍 Atlas/Dreams/🪧.md",
+    "🌍 Atlas/Dreams/Learn the Piano.md",
+    "🌍 Atlas/Dreams/Compose music.md",
+    "🌍 Atlas/Dreams/Buy a good bike.md",
+    "🌍 Atlas/Dreams",
+    "✒️ Projects/C'est La Vie/Familiar/🪧.md",
+    "✒️ Projects/C'est La Vie/Familiar",
+    "✒️ Projects/EveryBot/🪧.md",
+    "✒️ Projects/EveryBot",
+    "✒️ Projects/NoBot/🪧.md",
+    "✒️ Projects/NoBot",
+    "🖼️ Attachments/Coffee_2K.png",
+    "🖼️ Attachments"
+  ]
+}

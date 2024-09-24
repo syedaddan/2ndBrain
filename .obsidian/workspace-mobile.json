@@ -36,13 +36,31 @@
           {
             "id": "cd25eaedab2af2f1",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "💭 Thoughts/The harsh truth.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a821cf930010f993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "✅ Actions/ToDos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,6 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "✅ Actions/ToDos.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -152,6 +171,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "✅ Actions/ToDos.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -162,7 +182,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "✅ Actions/ToDos.md"
+          }
         }
       }
     ],
@@ -170,10 +192,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -182,44 +200,44 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "cd25eaedab2af2f1",
+  "active": "a821cf930010f993",
   "lastOpenFiles": [
-    "🗿 Stoned/My Type.md",
-    "🌍 Atlas/Things/Buying/Apparel Shit.md",
-    "🌍 Atlas/Things/Buying/Accessory Shit.md",
-    "🌍 Atlas/Things/Buying/Bike Shit.md",
-    "🌍 Atlas/Things/Buying/Gym Shit.md",
-    "🌍 Atlas/Things/Buying/Hygiene Shit.md",
-    "🌍 Atlas/Things/Buying/Laptop Shit.md",
-    "🌍 Atlas/Things/Buying/Phone Shit.md",
-    "🌍 Atlas/Things/Buying/Sound Shit.md",
-    "🌍 Atlas/Things/🪧.md",
-    "🌍 Atlas/Things/Wants/Piano.md",
-    "🌍 Atlas/Things/Wants/Bike.md",
-    "🌍 Atlas/Games/Games to get in the new laptop.md",
-    "🌍 Atlas/Games/Games to play.md",
-    "🌍 Atlas/Games/Games to buy.md",
-    "🌍 Atlas/Movies/To watch.md",
-    "🌍 Atlas/Movies/To rewatch.md",
-    "🌍 Atlas/Movies/10 by 10 movies.md",
-    "📋 Todos/26-05-24.md",
-    "📋 Todos",
-    "🌍 Atlas/Games/Upcoming Games to play.md",
-    "🌍 Atlas/Dreams/Travel the World.md",
+    "💗 Life/Date Ideas.md",
+    "✅ Actions/ToDos.md",
+    "✅ Actions",
+    "💭 Thoughts/Problems/Friends.md",
+    "💭 Thoughts/Problems/Family.md",
+    "💭 Thoughts/Problems",
     "💭 Thoughts/A very important question.md",
-    "🧁 Hello there!.md",
-    "💭 Thoughts/Maaheen's bday (in case she deletes the message).md",
-    "🌍 Atlas/Series/Series to watch.md",
+    "💭 Thoughts/The harsh truth.md",
+    "🌍 Atlas/Games/Games to buy.md",
+    "🌍 Atlas/Games/Games to get in the new laptop.md",
+    "💭 Thoughts/Birthdays.md",
+    "🗿 Stoned/Gameplan.md",
+    "🗿 Stoned/Maaheen's bday (in case she deletes the message).md",
+    "🗿 Stoned/MetaMask.md",
+    "🗿 Stoned/My College Roll Number.md",
+    "🗿 Stoned/One day after my suicide.md",
+    "🗿 Stoned/My Type.md",
+    "✒️ Projects/C'est La Vie/Familiar/🪧.md",
+    "✒️ Projects/C'est La Vie/Elevator Pitch.md",
+    "🌍 Atlas/Dreams/Travel the World.md",
+    "🌍 Atlas/Al Burhan/🪧.md",
+    "💭 Thoughts/Day 1.md",
+    "🌍 Atlas/Al Burhan/Murabbi Training/Week 3",
+    "🌍 Atlas/Al Burhan/Murabbi Training/Week 2",
+    "🌍 Atlas/Al Burhan/Murabbi Training/Week 1",
+    "🌍 Atlas/Al Burhan/Murabbi Training/Week 3/Day 5.md",
+    "🌍 Atlas/Al Burhan/Murabbi Training/Week 1/Day 2.md",
+    "🌍 Atlas/Al Burhan/Murabbi Training/Week 2/Day 4.md",
+    "💭 Thoughts/Days gone.md",
+    "💭 Thoughts/Elden ring.md",
+    "✒️ Projects/The Atomic 2nd/🪧.md",
+    "🌍 Atlas/3D arts",
+    "📋 Todos",
     "🌍 Atlas/Series",
-    "🌍 Atlas/Al Burhan/Murabbi Training/Day 2.md",
     "🌍 Atlas/Al Burhan/Murabbi Training",
     "🌍 Atlas/Al Burhan",
-    "🌍 Atlas/Things/To Buy",
-    "🗿 Stoned",
-    "✒️ Projects/NoBot",
-    "✒️ Projects/Familiar",
-    "🌍 Atlas/Things/Wants",
-    "🌍 Atlas/Things/Needs",
     "🖼️ Attachments/H.png"
   ]
 }

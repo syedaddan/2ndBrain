@@ -1,0 +1,1 @@
+An app that records the native speakers voice and makes the learner learn the language through that exchange.

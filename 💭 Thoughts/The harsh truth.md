@@ -1,0 +1,1 @@
+You are right but you have to agree on one thing as well. That some people have some qualities and other people don't and in this line of work, it

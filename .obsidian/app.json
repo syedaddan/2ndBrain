@@ -4,5 +4,7 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "💭 Thoughts",
   "promptDelete": false,
-  "showLineNumber": true
+  "showLineNumber": false,
+  "showInlineTitle": true,
+  "showRibbon": false
 }

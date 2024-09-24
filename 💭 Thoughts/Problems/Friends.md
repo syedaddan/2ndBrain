@@ -1,0 +1,1 @@
+As for friends, I don't have any. Just situational. No one to really communicate with. Ideologies don't match. So yea, nothing in that area as well.
