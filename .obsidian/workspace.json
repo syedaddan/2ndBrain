@@ -14,23 +14,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "🧁 Hello.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "d9824e6da8d00b05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "☁️ Ideas/Language Learning through Native Speakers.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -107,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "🧁 Hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "🧁 Hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "🧁 Hello.md"
               }
             }
           },
@@ -196,10 +184,10 @@
   "active": "78d4b9cc21c4c5f7",
   "lastOpenFiles": [
     "☁️ Ideas/Language Learning through Native Speakers.md",
+    "🧁 Hello.md",
     "☁️ Ideas/Therapy Bridge.md",
     "✅ Actions/ToDos.md",
     "🗿 Stoned/Some Jokes.md",
-    "README.md",
     "🖼️ Attachments/Pasted image 20231116161454.png",
     "🖼️ Attachments/Coffee_Original.png",
     "🖼️ Attachments/Coffee_2K.png",
