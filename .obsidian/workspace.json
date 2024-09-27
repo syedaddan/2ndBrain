@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "fdeb52137f806bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🗿 Stoned/Some Jokes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧁 Hello!.md",
+                "file": "🗿 Stoned/Some Jokes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🧁 Hello!.md",
+                "file": "🗿 Stoned/Some Jokes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🧁 Hello!.md"
+                "file": "🗿 Stoned/Some Jokes.md"
               }
             }
           },
@@ -181,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78d4b9cc21c4c5f7",
+  "active": "fdeb52137f806bca",
   "lastOpenFiles": [
-    "✅ Actions/ToDos.md",
     "🧁 Hello!.md",
+    "✅ Actions/ToDos.md",
     "☁️ Ideas/Language Learning through Native Speakers.md",
     "☁️ Ideas/Therapy Bridge.md",
     "🗿 Stoned/Some Jokes.md",
