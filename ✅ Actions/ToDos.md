@@ -1,11 +1,17 @@
 ## 24-09-24
-- [ ] buy the cosmetics (**ask zaify**) ()
-- [ ] buy glasses
-- [ ] buy airpods (from Dubai Plaza today)
-- [ ] fill the expense tracker 
-- [ ] buy new clothes
-- [ ] buy shoes 
-- [ ] buy helmet
+- [ ] buy the cosmetics (**ask zaify**) (bath gel, facewash, moisturizer, )
+- [ ] buy glasses (on Sunday with Baba jani - maybe)
+- [x] buy earbuds (got Galaxy Buds FE)
+- [ ] fill the expense tracker (Starting next month)
+- [ ] buy new clothes (on Sunday with Baba jani)
+- [ ] buy shoes (on Sunday with Baba jani)
+- [ ] buy helmet (i don't know when)
 - [ ] call alfa rep (limit, charges, cancellation procedure, name change procedure)
-- [ ] buy stepsils
-- [ ] check upwork
+- [x] buy stepsils 
+- [ ] buy toothpaste
+- [x] check upwork
+- [ ] fill upwork fields
+	- [ ] Experience
+	- [ ] References
+	- [ ] Other shit
+- [ ] buy bike
