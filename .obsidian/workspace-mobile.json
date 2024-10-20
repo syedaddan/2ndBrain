@@ -16,7 +16,9 @@
                 "file": "🌍 Atlas/Dreams/Travel the World.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Travel the World"
             }
           },
           {
@@ -30,7 +32,9 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Headphones"
             }
           },
           {
@@ -44,7 +48,9 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "The harsh truth"
             }
           },
           {
@@ -53,10 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✅ Actions/ToDos.md",
+                "file": "📋 Todos/26-05-24.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "26-05-24"
             }
           }
         ],
@@ -74,7 +82,9 @@
         "type": "leaf",
         "state": {
           "type": "recent-files",
-          "state": {}
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -84,7 +94,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -99,7 +111,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -110,7 +124,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -122,7 +138,9 @@
             "sortOrder": "frequency",
             "showSearch": false,
             "searchQuery": ""
-          }
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
         }
       },
       {
@@ -130,7 +148,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -145,7 +165,9 @@
         "type": "leaf",
         "state": {
           "type": "calendar",
-          "state": {}
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -154,7 +176,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "✅ Actions/ToDos.md",
+            "file": "🧠 Learn/Music theory.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -162,7 +184,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -171,10 +195,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "✅ Actions/ToDos.md",
+            "file": "🧠 Learn/Music theory.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -183,8 +209,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "✅ Actions/ToDos.md"
-          }
+            "file": "🧠 Learn/Music theory.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
@@ -202,8 +230,12 @@
   },
   "active": "a821cf930010f993",
   "lastOpenFiles": [
-    "💗 Life/Date Ideas.md",
+    "🧠 Learn/Music theory.md",
+    "🗿 Stoned/Birthdays.md",
+    "🧠 Learn",
+    "☁️ Ideas/Untitled.md",
     "✅ Actions/ToDos.md",
+    "💗 Life/Date Ideas.md",
     "✅ Actions",
     "💭 Thoughts/Problems/Friends.md",
     "💭 Thoughts/Problems/Family.md",
@@ -212,7 +244,6 @@
     "💭 Thoughts/The harsh truth.md",
     "🌍 Atlas/Games/Games to buy.md",
     "🌍 Atlas/Games/Games to get in the new laptop.md",
-    "💭 Thoughts/Birthdays.md",
     "🗿 Stoned/Gameplan.md",
     "🗿 Stoned/Maaheen's bday (in case she deletes the message).md",
     "🗿 Stoned/MetaMask.md",
@@ -231,13 +262,10 @@
     "🌍 Atlas/Al Burhan/Murabbi Training/Week 1/Day 2.md",
     "🌍 Atlas/Al Burhan/Murabbi Training/Week 2/Day 4.md",
     "💭 Thoughts/Days gone.md",
-    "💭 Thoughts/Elden ring.md",
-    "✒️ Projects/The Atomic 2nd/🪧.md",
     "🌍 Atlas/3D arts",
     "📋 Todos",
     "🌍 Atlas/Series",
     "🌍 Atlas/Al Burhan/Murabbi Training",
-    "🌍 Atlas/Al Burhan",
     "🖼️ Attachments/H.png"
   ]
 }

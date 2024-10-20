@@ -18,5 +18,6 @@
 18th Jan - Saud
 29th Sep - Sir Umair
 30th Sep - Rohaat
+8th Oct - Hamza Jadoon
 
 

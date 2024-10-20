@@ -8,7 +8,7 @@
 - [ ] buy helmet (i don't know when)
 - [ ] call alfa rep (limit, charges, cancellation procedure, name change procedure)
 - [x] buy stepsils 
-- [ ] buy toothpaste
+- [x] buy toothpaste
 - [x] check upwork
 - [ ] fill upwork fields
 	- [ ] Experience
