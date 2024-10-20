@@ -6,7 +6,7 @@
 - [ ] buy new clothes (on Sunday with Baba jani)
 - [ ] buy shoes (on Sunday with Baba jani)
 - [ ] buy helmet (i don't know when)
-- [ ] call alfa rep (limit, charges, cancellation procedure, name change procedure)
+- [x] call alfa rep (limit, charges, cancellation procedure, name change procedure)
 - [x] buy stepsils 
 - [x] buy toothpaste
 - [x] check upwork
@@ -15,3 +15,5 @@
 	- [ ] References
 	- [ ] Other shit
 - [ ] buy bike
+## 20-10-24
+- [ ] call alfa rep 
