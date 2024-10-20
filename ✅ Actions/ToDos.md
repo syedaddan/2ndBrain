@@ -16,4 +16,5 @@
 	- [ ] Other shit
 - [ ] buy bike
 ## 20-10-24
-- [ ] call alfa rep 
+- [ ] call alfa
+- [ ] 
