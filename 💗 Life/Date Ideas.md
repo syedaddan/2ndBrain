@@ -3,5 +3,4 @@
 3. Ramen shops
 4. Cooking together 
 5. Hiking
-6. Gaming together 
-7. 
+6. Gaming together
