@@ -12,7 +12,9 @@
   "provideAccessKeys": true,
   "useFilenameAsScheduledDate": true,
   "filenameAsScheduledDateFormat": "",
-  "filenameAsDateFolders": [],
+  "filenameAsDateFolders": [
+    "✅ Actions"
+  ],
   "recurrenceOnNextLine": false,
   "statusSettings": {
     "coreStatuses": [

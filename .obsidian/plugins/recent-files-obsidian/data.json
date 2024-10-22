@@ -1,28 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "ToDos",
+      "path": "✅ Actions/ToDos.md"
+    },
+    {
+      "basename": "2024-09-24",
+      "path": "✅ Actions/2024-09-24.md"
+    },
+    {
+      "basename": "2024-10-20",
+      "path": "✅ Actions/2024-10-20.md"
+    },
+    {
       "basename": "🧁 Hello!",
       "path": "🧁 Hello!.md"
     },
     {
       "basename": "2024-05-30",
-      "path": "📅 Timeline/2024-05-30.md"
+      "path": "✅ Actions/2024-05-30.md"
     },
     {
       "basename": "2024-05-31",
-      "path": "📅 Timeline/2024-05-31.md"
+      "path": "✅ Actions/2024-05-31.md"
     },
     {
       "basename": "2024-06-01",
-      "path": "📅 Timeline/2024-06-01.md"
+      "path": "✅ Actions/2024-06-01.md"
     },
     {
       "basename": "Notes",
       "path": "🦎 Templates/Notes.md"
-    },
-    {
-      "basename": "ToDos",
-      "path": "✅ Actions/ToDos.md"
     },
     {
       "basename": "26-05-24",
@@ -191,14 +199,6 @@
     {
       "basename": "TTS",
       "path": "✒️ Projects/Familiar/Features/TTS.md"
-    },
-    {
-      "basename": "LLM",
-      "path": "✒️ Projects/Familiar/Features/LLM.md"
-    },
-    {
-      "basename": "Replay last n messages",
-      "path": "✒️ Projects/Familiar/Features/Replay last n messages.md"
     }
   ],
   "omittedPaths": [],

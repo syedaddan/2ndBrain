@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4a2bd0935de4cfc4",
+        "id": "116ab26d479e58ee",
         "type": "tabs",
         "children": [
           {
-            "id": "78d4b9cc21c4c5f7",
+            "id": "c8cea98cfcc115b9",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🧁 Hello!.md",
+                "file": "✅ Actions/ToDos.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "🧁 Hello!"
-            }
-          },
-          {
-            "id": "2319972cb04d532d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "ToDos"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🧁 Hello!.md",
+                "file": "✅ Actions/ToDos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 🧁 Hello!"
+              "title": "Backlinks for ToDos"
             }
           },
           {
@@ -137,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🧁 Hello!.md",
+                "file": "✅ Actions/ToDos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 🧁 Hello!"
+              "title": "Outgoing links from ToDos"
             }
           },
           {
@@ -164,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🧁 Hello!.md"
+                "file": "✅ Actions/ToDos.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 🧁 Hello!"
+              "title": "Outline of ToDos"
             }
           },
           {
@@ -216,14 +201,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2319972cb04d532d",
+  "active": "c8cea98cfcc115b9",
   "lastOpenFiles": [
-    "📅 Timeline/2024-05-30.md",
-    "📅 Timeline/2024-05-31.md",
-    "📅 Timeline/2024-06-01.md",
-    "🧁 Hello!.md",
-    "🦎 Templates/Notes.md",
+    "✅ Actions/2024-09-24.md",
+    "✅ Actions/2024-10-20.md",
     "✅ Actions/ToDos.md",
+    "🧁 Hello!.md",
+    "✅ Actions/2024-05-30.md",
+    "✅ Actions/2024-05-31.md",
+    "✅ Actions/2024-06-01.md",
+    "🦎 Templates/Notes.md",
     "📋 Todos/26-05-24.md",
     "🗿 Stoned/Some Jokes.md",
     "☁️ Ideas/Language Learning through Native Speakers.md",
@@ -247,8 +234,6 @@
     "💭 Thoughts/Problems/Friends.md",
     "💭 Thoughts/Problems/Family.md",
     "🗿 Stoned/Maaheen's bday (in case she deletes the message).md",
-    "✒️ Projects/The Atomic 2nd/Characters/2nd's Family/The Youngest.md",
-    "✒️ Projects/The Atomic 2nd/Characters/2nd's Family/The Sister.md",
     "✒️ Projects/C'est La Vie/Logo/C'est La Vie - Logo.png",
     "✒️ Projects/Familiar/Logo/Logo.png",
     "✒️ Projects/Familiar/Features",
