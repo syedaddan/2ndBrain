@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "🧁 Hello!",
+      "path": "🧁 Hello!.md"
+    },
+    {
+      "basename": "2024-05-30",
+      "path": "📅 Timeline/2024-05-30.md"
+    },
+    {
+      "basename": "2024-05-31",
+      "path": "📅 Timeline/2024-05-31.md"
+    },
+    {
+      "basename": "2024-06-01",
+      "path": "📅 Timeline/2024-06-01.md"
+    },
+    {
+      "basename": "Notes",
+      "path": "🦎 Templates/Notes.md"
+    },
+    {
       "basename": "ToDos",
       "path": "✅ Actions/ToDos.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "Some Jokes",
       "path": "🗿 Stoned/Some Jokes.md"
-    },
-    {
-      "basename": "🧁 Hello!",
-      "path": "🧁 Hello!.md"
     },
     {
       "basename": "Language Learning through Native Speakers",
@@ -75,18 +91,6 @@
     {
       "basename": "Elevator Pitch",
       "path": "✒️ Projects/C'est La Vie/Elevator Pitch.md"
-    },
-    {
-      "basename": "2024-06-01",
-      "path": "📅 Timeline/2024-06-01.md"
-    },
-    {
-      "basename": "2024-05-31",
-      "path": "📅 Timeline/2024-05-31.md"
-    },
-    {
-      "basename": "2024-05-30",
-      "path": "📅 Timeline/2024-05-30.md"
     },
     {
       "basename": "MetaMask",
@@ -195,10 +199,6 @@
     {
       "basename": "Replay last n messages",
       "path": "✒️ Projects/Familiar/Features/Replay last n messages.md"
-    },
-    {
-      "basename": "STT",
-      "path": "✒️ Projects/Familiar/Features/STT.md"
     }
   ],
   "omittedPaths": [],

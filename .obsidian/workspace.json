@@ -18,19 +18,21 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "🧁 Hello!"
             }
           },
           {
-            "id": "fdeb52137f806bca",
+            "id": "2319972cb04d532d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "✅ Actions/ToDos.md",
-                "mode": "source",
-                "source": false
-              }
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ],
@@ -54,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -69,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -77,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -85,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -108,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✅ Actions/ToDos.md",
+                "file": "🧁 Hello!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +126,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 🧁 Hello!"
             }
           },
           {
@@ -125,10 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✅ Actions/ToDos.md",
+                "file": "🧁 Hello!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 🧁 Hello!"
             }
           },
           {
@@ -139,7 +153,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -148,8 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "✅ Actions/ToDos.md"
-              }
+                "file": "🧁 Hello!.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 🧁 Hello!"
             }
           },
           {
@@ -161,7 +179,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -169,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -194,12 +216,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdeb52137f806bca",
+  "active": "2319972cb04d532d",
   "lastOpenFiles": [
-    "📋 Todos/26-05-24.md",
-    "✅ Actions/ToDos.md",
-    "🗿 Stoned/Some Jokes.md",
+    "📅 Timeline/2024-05-30.md",
+    "📅 Timeline/2024-05-31.md",
+    "📅 Timeline/2024-06-01.md",
     "🧁 Hello!.md",
+    "🦎 Templates/Notes.md",
+    "✅ Actions/ToDos.md",
+    "📋 Todos/26-05-24.md",
+    "🗿 Stoned/Some Jokes.md",
     "☁️ Ideas/Language Learning through Native Speakers.md",
     "☁️ Ideas/Therapy Bridge.md",
     "🖼️ Attachments/Pasted image 20231116161454.png",
@@ -217,16 +243,12 @@
     "💭 Thoughts/Birthdays.md",
     "✒️ Projects/Familiar/Features/Avatar.md",
     "✒️ Projects/C'est La Vie/Elevator Pitch.md",
-    "📅 Timeline/2024-06-01.md",
-    "📅 Timeline/2024-05-31.md",
-    "📅 Timeline/2024-05-30.md",
     "🗿 Stoned/MetaMask.md",
     "💭 Thoughts/Problems/Friends.md",
     "💭 Thoughts/Problems/Family.md",
     "🗿 Stoned/Maaheen's bday (in case she deletes the message).md",
     "✒️ Projects/The Atomic 2nd/Characters/2nd's Family/The Youngest.md",
     "✒️ Projects/The Atomic 2nd/Characters/2nd's Family/The Sister.md",
-    "✒️ Projects/The Atomic 2nd/Characters/2nd's Family/The Parents.md",
     "✒️ Projects/C'est La Vie/Logo/C'est La Vie - Logo.png",
     "✒️ Projects/Familiar/Logo/Logo.png",
     "✒️ Projects/Familiar/Features",
