@@ -11,7 +11,7 @@
 - [ ] [[One piece]] (😬)
 - [ ] [[Mushishi]]
 - [x] [[Mushoku tensei]]
-- [ ] [[Josse, the tiger and the fish]]
+- [x] [[Josse, the tiger and the fish]] ✅ 2024-10-22
 - [ ] [[Gintama]] (🤲)
 - [ ] [[Anohana]]
 - [ ] [[Children of the sea]]

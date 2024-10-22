@@ -1,5 +1,5 @@
 - [ ] Soap
-- [ ] Toothpaste
+- [x] Toothpaste ✅ 2024-10-22
 - [ ] Lip balm
 - [ ] Mirror
 - [ ] Comb

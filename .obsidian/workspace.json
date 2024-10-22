@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "116ab26d479e58ee",
+        "id": "74ff66d5b00ff75a",
         "type": "tabs",
         "children": [
           {
-            "id": "c8cea98cfcc115b9",
+            "id": "f60ba17885096e24",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -201,17 +201,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8cea98cfcc115b9",
+  "active": "3c0f051a6e601b64",
   "lastOpenFiles": [
-    "✅ Actions/2024-09-24.md",
-    "✅ Actions/2024-10-20.md",
+    "🌍 Atlas/Games/Games to get in the new laptop.md",
     "✅ Actions/ToDos.md",
-    "🧁 Hello!.md",
+    "✅ Actions/2024-10-20.md",
+    "✅ Actions/2024-09-24.md",
+    "✅ Actions/Done.md",
+    "💭 Thoughts/Cyberpunk 2077.md",
+    "✅ Actions/2024-05-26.md",
     "✅ Actions/2024-05-30.md",
-    "✅ Actions/2024-05-31.md",
     "✅ Actions/2024-06-01.md",
+    "✅ Actions/2024-05-31.md",
+    "🧁 Hello!.md",
     "🦎 Templates/Notes.md",
-    "📋 Todos/26-05-24.md",
     "🗿 Stoned/Some Jokes.md",
     "☁️ Ideas/Language Learning through Native Speakers.md",
     "☁️ Ideas/Therapy Bridge.md",
@@ -231,9 +234,6 @@
     "✒️ Projects/Familiar/Features/Avatar.md",
     "✒️ Projects/C'est La Vie/Elevator Pitch.md",
     "🗿 Stoned/MetaMask.md",
-    "💭 Thoughts/Problems/Friends.md",
-    "💭 Thoughts/Problems/Family.md",
-    "🗿 Stoned/Maaheen's bday (in case she deletes the message).md",
     "✒️ Projects/C'est La Vie/Logo/C'est La Vie - Logo.png",
     "✒️ Projects/Familiar/Logo/Logo.png",
     "✒️ Projects/Familiar/Features",

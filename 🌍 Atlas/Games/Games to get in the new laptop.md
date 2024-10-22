@@ -1,23 +1,22 @@
 ### Priority
 - [ ] [[Elden Ring]]
 - [ ] [[Uncharted 4]]
-- [ ] [[Resident evil 8]]
-- [ ] 
+- [x] [[Resident evil 8]] ✅ 2024-10-22
 
 ### Yes sir
 - [ ] [[Days gone]]
-- [ ] [[Elden Ring]] (To Download)
+- [x] [[Elden Ring]] ✅ 2024-10-22
 - [ ] [[Starfield]]
-- [ ] [[Gorogoa]]
+- [ ] [[Gorogoa]] ⏫
 - [ ] [[Cyberpunk 2077]] (To Download)
 - [ ] [[Nightwatch]]
 - [x] [[Ghost of Tsushima]] (Downloaded)
 - [x] [[Nier Automata]] (Downloaded)
 - [x] [[Genshin Impact ]] (Deleted)
-- [ ] [[RDR 2]]
-- [ ] [[Horizon 0 dawn]]
-- [ ] [[Bioshock 2]]
-- [ ] [[Fire watch]]
+- [x] [[RDR 2]] ✅ 2024-10-22
+- [x] [[Horizon 0 dawn]] ✅ 2024-10-22
+- [x] [[Bioshock 2]] ✅ 2024-10-22
+- [x] [[Fire watch]] ✅ 2024-10-22
 - [x] [[The Last of us]] (Downloaded)
 - [x] [[Resident evil 8]] (Finished)
 - [ ] [[Baldur's Gate 3]]
@@ -25,4 +24,3 @@
 - [ ] [[God of War]] (To Download)
 - [x] [[Ghostwire]] (Deleted)
 - [ ] [[Uncharted 4]]
-- [ ] 
