@@ -1,2 +1,2 @@
-- [ ] Headphones
+- [x] Headphones ✅ 2024-11-04
 - [x] Handsfree ✅ 2024-10-22

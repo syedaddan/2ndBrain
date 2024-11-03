@@ -1,6 +1,6 @@
 - [ ] Laptop bag
 - [ ] Laptop stickers
-- [ ] Laptop stand ⏫
+- [x] Laptop stand ⏫ ✅ 2024-11-04
 - [ ] Laptop pen 🔽
 - [x] Laptop lamination
 - [x] Laptop keyboard silicone cover

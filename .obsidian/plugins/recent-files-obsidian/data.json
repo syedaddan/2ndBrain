@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "ToDos",
+      "path": "✅ Actions/ToDos.md"
+    },
+    {
+      "basename": "Done",
+      "path": "✅ Actions/Done.md"
+    },
+    {
+      "basename": "Sound Shit",
+      "path": "🌍 Atlas/Things/Buying/Sound Shit.md"
+    },
+    {
+      "basename": "Phone Shit",
+      "path": "🌍 Atlas/Things/Buying/Phone Shit.md"
+    },
+    {
+      "basename": "Laptop Shit",
+      "path": "🌍 Atlas/Things/Buying/Laptop Shit.md"
+    },
+    {
+      "basename": "Hygiene Shit",
+      "path": "🌍 Atlas/Things/Buying/Hygiene Shit.md"
+    },
+    {
+      "basename": "Gym Shit",
+      "path": "🌍 Atlas/Things/Buying/Gym Shit.md"
+    },
+    {
+      "basename": "Bike Shit",
+      "path": "🌍 Atlas/Things/Buying/Bike Shit.md"
+    },
+    {
+      "basename": "Apparel Shit",
+      "path": "🌍 Atlas/Things/Buying/Apparel Shit.md"
+    },
+    {
+      "basename": "Accessory Shit",
+      "path": "🌍 Atlas/Things/Buying/Accessory Shit.md"
+    },
+    {
+      "basename": "Earbuds",
+      "path": "🌍 Atlas/Things/Needs/Earbuds.md"
+    },
+    {
+      "basename": "Piano",
+      "path": "🌍 Atlas/Things/Wants/Piano.md"
+    },
+    {
+      "basename": "Phone",
+      "path": "🌍 Atlas/Things/Wants/Phone.md"
+    },
+    {
+      "basename": "Laptop",
+      "path": "🌍 Atlas/Things/Wants/Laptop.md"
+    },
+    {
+      "basename": "Bike",
+      "path": "🌍 Atlas/Things/Wants/Bike.md"
+    },
+    {
+      "basename": "Headphones",
+      "path": "🌍 Atlas/Things/Wants/Headphones.md"
+    },
+    {
+      "basename": "2024-11-04",
+      "path": "✅ Actions/2024-11-04.md"
+    },
+    {
       "basename": "🪧",
       "path": "✒️ Projects/EveryBot/🪧.md"
     },
@@ -113,70 +181,6 @@
       "path": "🌍 Atlas/Songs/Googoo gaagaa songs.md"
     },
     {
-      "basename": "Sound Shit",
-      "path": "🌍 Atlas/Things/Buying/Sound Shit.md"
-    },
-    {
-      "basename": "Phone Shit",
-      "path": "🌍 Atlas/Things/Buying/Phone Shit.md"
-    },
-    {
-      "basename": "Laptop Shit",
-      "path": "🌍 Atlas/Things/Buying/Laptop Shit.md"
-    },
-    {
-      "basename": "Hygiene Shit",
-      "path": "🌍 Atlas/Things/Buying/Hygiene Shit.md"
-    },
-    {
-      "basename": "Gym Shit",
-      "path": "🌍 Atlas/Things/Buying/Gym Shit.md"
-    },
-    {
-      "basename": "Bike Shit",
-      "path": "🌍 Atlas/Things/Buying/Bike Shit.md"
-    },
-    {
-      "basename": "Apparel Shit",
-      "path": "🌍 Atlas/Things/Buying/Apparel Shit.md"
-    },
-    {
-      "basename": "Accessory Shit",
-      "path": "🌍 Atlas/Things/Buying/Accessory Shit.md"
-    },
-    {
-      "basename": "Earbuds",
-      "path": "🌍 Atlas/Things/Needs/Earbuds.md"
-    },
-    {
-      "basename": "Piano",
-      "path": "🌍 Atlas/Things/Wants/Piano.md"
-    },
-    {
-      "basename": "Phone",
-      "path": "🌍 Atlas/Things/Wants/Phone.md"
-    },
-    {
-      "basename": "Laptop",
-      "path": "🌍 Atlas/Things/Wants/Laptop.md"
-    },
-    {
-      "basename": "Headphones",
-      "path": "🌍 Atlas/Things/Wants/Headphones.md"
-    },
-    {
-      "basename": "ToDos",
-      "path": "✅ Actions/ToDos.md"
-    },
-    {
-      "basename": "Done",
-      "path": "✅ Actions/Done.md"
-    },
-    {
-      "basename": "Bike",
-      "path": "🌍 Atlas/Things/Wants/Bike.md"
-    },
-    {
       "basename": "Therapy Bridge",
       "path": "☁️ Ideas/Therapy Bridge.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "My College Roll Number",
       "path": "🗿 Stoned/My College Roll Number.md"
-    },
-    {
-      "basename": "MetaMask",
-      "path": "🗿 Stoned/MetaMask.md"
     }
   ],
   "omittedPaths": [],

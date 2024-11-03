@@ -1,1 +1,1 @@
-- [ ] Gym membership
+- [x] Gym membership ✅ 2024-11-04
