@@ -83,7 +83,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -201,8 +202,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "656f2c4f961cefe4",
+  "active": "1cfe255ca26d03c5",
   "lastOpenFiles": [
+    "✅ Actions/2024-11-04.md",
+    "✅ Actions/ToDos.md",
+    "✅ Actions/2024-09-24.md",
     "✅ Actions/Done.md",
     "🌍 Atlas/Things/Buying/Sound Shit.md",
     "🌍 Atlas/Things/Buying/Phone Shit.md",
@@ -218,8 +222,6 @@
     "🌍 Atlas/Things/Wants/Laptop.md",
     "🌍 Atlas/Things/Wants/Bike.md",
     "🌍 Atlas/Things/Wants/Headphones.md",
-    "✅ Actions/ToDos.md",
-    "✅ Actions/2024-11-04.md",
     "✒️ Projects/EveryBot/🪧.md",
     "🌍 Atlas/3D arts/To make list.md",
     "🌍 Atlas/Anime/10 by 10 anime.md",
@@ -228,7 +230,6 @@
     "🌍 Atlas/Anime/Stein's gate watch order.md",
     "🌍 Atlas/Anime/The one anime with cat girl.md",
     "🌍 Atlas/Anime/you can be king again.md",
-    "🌍 Atlas/Books/BookTok Books.md",
     "🖼️ Attachments/Pasted image 20231116161454.png",
     "🖼️ Attachments/Coffee_Original.png",
     "🖼️ Attachments/Coffee_2K.png",
