@@ -4,6 +4,7 @@
 27th Jan - Zaidi
 30th June/30th July - Osama
 8th Oct - Hamza Jadoon
+13th Nov - Alishba
 8th Dec - Ans
 # Online Friends
 15th Jun - Val
@@ -16,9 +17,8 @@
 8th March - Azka
 29th May - Zaryab
 29th June - Hasanat
-24th Aug - Ahmed (to confirm)
+24th Aug - Ahmad (to confirm)
 29th Sep - Sir Umair
-13th Nov - Alishba
 # Acquittances
 27th Jan - Abbas
 5th Feb - Qasim
