@@ -1,5 +1,5 @@
-# Personal
-4rth Jan - Myself
+# Myself
+4rth Jan
 # Friends
 27th Jan - Zaidi
 30th June/30th July - Osama
