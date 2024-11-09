@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Birthdays",
+      "path": "🗿 Stoned/Birthdays.md"
+    },
+    {
       "basename": "ToDos",
       "path": "✅ Actions/ToDos.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Music theory",
       "path": "🧠 Learn/Music theory.md"
-    },
-    {
-      "basename": "🧁 Hello!",
-      "path": "🧁 Hello!.md"
     }
   ],
   "omittedPaths": [],

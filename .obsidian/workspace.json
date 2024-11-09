@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✅ Actions/ToDos.md",
+                "file": "🗿 Stoned/Birthdays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToDos"
-            }
-          },
-          {
-            "id": "a7b41221d1eec528",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "Birthdays"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,8 +83,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,10 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7b41221d1eec528",
+  "active": "656f2c4f961cefe4",
   "lastOpenFiles": [
-    "✅ Actions/2024-11-04.md",
     "✅ Actions/ToDos.md",
+    "✅ Actions/2024-11-04.md",
     "✅ Actions/2024-09-24.md",
     "✅ Actions/Done.md",
     "🌍 Atlas/Things/Buying/Sound Shit.md",
