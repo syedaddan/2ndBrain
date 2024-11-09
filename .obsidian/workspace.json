@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "ToDos"
             }
+          },
+          {
+            "id": "a7b41221d1eec528",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -47,7 +60,7 @@
             }
           },
           {
-            "id": "fdb94ec05481b2b2",
+            "id": "0cfdde0572776e2e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,17 +77,7 @@
             }
           },
           {
-            "id": "1cfe255ca26d03c5",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          },
-          {
-            "id": "c9d0bfcacb7d7d90",
+            "id": "30a8d09d5d779554",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,9 +85,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "9deb4111886e7e18",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -202,7 +215,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cfe255ca26d03c5",
+  "active": "a7b41221d1eec528",
   "lastOpenFiles": [
     "✅ Actions/2024-11-04.md",
     "✅ Actions/ToDos.md",

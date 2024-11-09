@@ -1,0 +1,2 @@
+- [ ] komi ed
+- [ ] interstellar theme
