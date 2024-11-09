@@ -83,7 +83,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -201,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "656f2c4f961cefe4",
+  "active": "9deb4111886e7e18",
   "lastOpenFiles": [
     "✅ Actions/ToDos.md",
     "✅ Actions/2024-11-04.md",
