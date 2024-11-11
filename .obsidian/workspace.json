@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b3719fe50ae4e7aa",
+        "id": "39b6890cee60cc97",
         "type": "tabs",
         "children": [
           {
-            "id": "dfc40506a0d33e63",
+            "id": "3e45702d4176b15d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🗿 Stoned/Birthdays.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Birthdays"
+              "title": "New tab"
             }
           }
         ]
@@ -104,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗿 Stoned/Birthdays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Birthdays"
+              "title": "Backlinks"
             }
           },
           {
@@ -123,12 +118,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗿 Stoned/Birthdays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Birthdays"
+              "title": "Outgoing links"
             }
           },
           {
@@ -163,11 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🗿 Stoned/Birthdays.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Birthdays"
+              "title": "Outline"
             }
           },
           {
@@ -195,4 +187,15 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "table-editor-obsid
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "8d7ac793e9ea8048",
+  "lastOpenFiles": [
+    "🗿 Stoned/Birthdays.md"
+  ]
+}
