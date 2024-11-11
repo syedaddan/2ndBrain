@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "f34004063e690f8d",
+    "id": "8d8f8597739cb615",
     "type": "split",
     "children": [
       {
-        "id": "5741eadf0e883bd7",
+        "id": "b3719fe50ae4e7aa",
         "type": "tabs",
         "children": [
           {
-            "id": "656f2c4f961cefe4",
+            "id": "dfc40506a0d33e63",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "008749b9c8abc45b",
+    "id": "6680c63f106dde7f",
     "type": "split",
     "children": [
       {
-        "id": "45a810f60f855738",
+        "id": "dd75cb5df360b9c3",
         "type": "tabs",
         "children": [
           {
-            "id": "3c0f051a6e601b64",
+            "id": "9ad19b50cf86e131",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "0cfdde0572776e2e",
+            "id": "a24f67f4598bd90a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "30a8d09d5d779554",
+            "id": "1af1bb62eaf6bf8d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "9deb4111886e7e18",
+            "id": "8d7ac793e9ea8048",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -88,23 +88,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "300fb5abaab58fd2",
+    "id": "2b811a2b94022fad",
     "type": "split",
     "children": [
       {
-        "id": "c2efd443b8824d5c",
+        "id": "c310717379a30a86",
         "type": "tabs",
         "children": [
           {
-            "id": "2d2146535dc65ade",
+            "id": "41d32c214f11fec5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "✅ Actions/ToDos.md",
+                "file": "🗿 Stoned/Birthdays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ToDos"
+              "title": "Backlinks for Birthdays"
             }
           },
           {
-            "id": "650a5a33623c91d3",
+            "id": "9384e7fa61e4142e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "✅ Actions/ToDos.md",
+                "file": "🗿 Stoned/Birthdays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ToDos"
+              "title": "Outgoing links from Birthdays"
             }
           },
           {
-            "id": "9a2e418f097a7913",
+            "id": "1f32b0798a8acf77",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,19 +145,7 @@
             }
           },
           {
-            "id": "b4e299f4aec81fc8",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "✅ Actions/ToDos.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of ToDos"
-            }
-          },
-          {
-            "id": "df24e28b40940b47",
+            "id": "ee4194a0fa6c7425",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -171,7 +159,19 @@
             }
           },
           {
-            "id": "13eda338b53eba5a",
+            "id": "755dca40c6e9033c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "🗿 Stoned/Birthdays.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Birthdays"
+            }
+          },
+          {
+            "id": "a4711f67f0d8e043",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -189,62 +189,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "audio-recorder:Start/stop recording": true,
-      "switcher:Open quick switcher": true,
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": true,
-      "command-palette:Open command palette": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-git:Open Git source control": false
-    }
-  },
-  "active": "9deb4111886e7e18",
-  "lastOpenFiles": [
-    "✅ Actions/ToDos.md",
-    "✅ Actions/2024-11-04.md",
-    "✅ Actions/2024-09-24.md",
-    "✅ Actions/Done.md",
-    "🌍 Atlas/Things/Buying/Sound Shit.md",
-    "🌍 Atlas/Things/Buying/Phone Shit.md",
-    "🌍 Atlas/Things/Buying/Laptop Shit.md",
-    "🌍 Atlas/Things/Buying/Hygiene Shit.md",
-    "🌍 Atlas/Things/Buying/Gym Shit.md",
-    "🌍 Atlas/Things/Buying/Bike Shit.md",
-    "🌍 Atlas/Things/Buying/Apparel Shit.md",
-    "🌍 Atlas/Things/Buying/Accessory Shit.md",
-    "🌍 Atlas/Things/Needs/Earbuds.md",
-    "🌍 Atlas/Things/Wants/Piano.md",
-    "🌍 Atlas/Things/Wants/Phone.md",
-    "🌍 Atlas/Things/Wants/Laptop.md",
-    "🌍 Atlas/Things/Wants/Bike.md",
-    "🌍 Atlas/Things/Wants/Headphones.md",
-    "✒️ Projects/EveryBot/🪧.md",
-    "🌍 Atlas/3D arts/To make list.md",
-    "🌍 Atlas/Anime/10 by 10 anime.md",
-    "🌍 Atlas/Anime/Anime to rewatch.md",
-    "🌍 Atlas/Anime/Anime to watch defo.md",
-    "🌍 Atlas/Anime/Stein's gate watch order.md",
-    "🌍 Atlas/Anime/The one anime with cat girl.md",
-    "🌍 Atlas/Anime/you can be king again.md",
-    "🖼️ Attachments/Pasted image 20231116161454.png",
-    "🖼️ Attachments/Coffee_Original.png",
-    "🖼️ Attachments/Coffee_2K.png",
-    "🌍 Atlas/Masters/Erasmus",
-    "🌍 Atlas/Masters",
-    "✒️ Projects/C'est La Vie/Logo/C'est La Vie - Logo.png",
-    "✒️ Projects/Familiar/Logo/Logo.png",
-    "✒️ Projects/Familiar/Features",
-    "✒️ Projects/Familiar/Logo",
-    "☁️ Ideas",
-    "🖼️ Attachments/5584964973_acd1a4955c_z.jpg",
-    "🖼️ Attachments/5584964973_acd1a4955c_z.jpg.crdownload",
-    "🌍 Atlas/Self",
-    "🌍 Atlas/Travel",
-    "🌍 Atlas/Songs",
-    "🌍 Atlas/Books"
-  ]
-}
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsid

@@ -5,6 +5,14 @@
       "path": "🗿 Stoned/Birthdays.md"
     },
     {
+      "basename": "🧁 Hello!",
+      "path": "🧁 Hello!.md"
+    },
+    {
+      "basename": "Someday",
+      "path": "✅ Actions/Someday.md"
+    },
+    {
       "basename": "ToDos",
       "path": "✅ Actions/ToDos.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Therapy Bridge",
       "path": "☁️ Ideas/Therapy Bridge.md"
-    },
-    {
-      "basename": "Language Learning through Native Speakers",
-      "path": "☁️ Ideas/Language Learning through Native Speakers.md"
-    },
-    {
-      "basename": "Music theory",
-      "path": "🧠 Learn/Music theory.md"
     }
   ],
   "omittedPaths": [],
