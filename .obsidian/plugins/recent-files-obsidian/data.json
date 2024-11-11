@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Vinyl Player",
+      "path": "🌍 Atlas/Things/Wants/Vinyl Player.md"
+    },
+    {
+      "basename": "Someday",
+      "path": "✅ Actions/Someday.md"
+    },
+    {
+      "basename": "Piano",
+      "path": "🌍 Atlas/Things/Wants/Piano.md"
+    },
+    {
+      "basename": "Phone",
+      "path": "🌍 Atlas/Things/Wants/Phone.md"
+    },
+    {
+      "basename": "Laptop",
+      "path": "🌍 Atlas/Things/Wants/Laptop.md"
+    },
+    {
+      "basename": "Headphones",
+      "path": "🌍 Atlas/Things/Wants/Headphones.md"
+    },
+    {
+      "basename": "Bike",
+      "path": "🌍 Atlas/Things/Wants/Bike.md"
+    },
+    {
       "basename": "Birthdays",
       "path": "🗿 Stoned/Birthdays.md"
     },
     {
       "basename": "🧁 Hello!",
       "path": "🧁 Hello!.md"
-    },
-    {
-      "basename": "Someday",
-      "path": "✅ Actions/Someday.md"
     },
     {
       "basename": "ToDos",
@@ -63,26 +87,6 @@
     {
       "basename": "Earbuds",
       "path": "🌍 Atlas/Things/Needs/Earbuds.md"
-    },
-    {
-      "basename": "Piano",
-      "path": "🌍 Atlas/Things/Wants/Piano.md"
-    },
-    {
-      "basename": "Phone",
-      "path": "🌍 Atlas/Things/Wants/Phone.md"
-    },
-    {
-      "basename": "Laptop",
-      "path": "🌍 Atlas/Things/Wants/Laptop.md"
-    },
-    {
-      "basename": "Bike",
-      "path": "🌍 Atlas/Things/Wants/Bike.md"
-    },
-    {
-      "basename": "Headphones",
-      "path": "🌍 Atlas/Things/Wants/Headphones.md"
     },
     {
       "basename": "🪧",
@@ -195,10 +199,6 @@
     {
       "basename": "Googoo gaagaa songs",
       "path": "🌍 Atlas/Songs/Googoo gaagaa songs.md"
-    },
-    {
-      "basename": "Therapy Bridge",
-      "path": "☁️ Ideas/Therapy Bridge.md"
     }
   ],
   "omittedPaths": [],
