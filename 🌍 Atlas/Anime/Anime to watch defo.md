@@ -29,3 +29,4 @@
 - [ ] [[Btooom]]
 - [ ] [[Kakegurui]]
 - [ ] [[Scavengers reign]]
+- [ ] [[Arcane Season 2]] ☝🏽
