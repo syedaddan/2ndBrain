@@ -11,10 +11,10 @@
             "id": "1a3ad39151aaf4e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "2b811a2b94022fad",
@@ -193,8 +193,12 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "9ad19b50cf86e131",
+  "active": "1a3ad39151aaf4e7",
   "lastOpenFiles": [
+    "🌍 Atlas/Things/Wants/Piano.md",
+    "🗿 Stoned/Birthdays.md",
+    "🌍 Atlas/Anime/The one anime with cat girl.md",
+    "🌍 Atlas/Things/Wants/Turntable.md",
     "🌍 Atlas/Masters or PHD/ISTA.md",
     "🌍 Atlas/Masters or PHD/Erasmus/EMAI.md",
     "🌍 Atlas/Masters or PHD/Erasmus/IPCV.md",
@@ -208,12 +212,9 @@
     "✅ Actions/Done.md",
     "🌍 Atlas/Things/Needs/Earbuds.md",
     "🌍 Atlas/Things/Buying/Accessory Shit.md",
-    "🌍 Atlas/Things/Wants/Turntable.md",
-    "🌍 Atlas/Things/Wants/Piano.md",
     "🌍 Atlas/Things/Wants/Phone.md",
     "🌍 Atlas/Things/Wants/Laptop.md",
     "🌍 Atlas/Things/Wants/Headphones.md",
-    "🌍 Atlas/Things/Wants/Bike.md",
-    "🗿 Stoned/Birthdays.md"
+    "🌍 Atlas/Things/Wants/Bike.md"
   ]
 }

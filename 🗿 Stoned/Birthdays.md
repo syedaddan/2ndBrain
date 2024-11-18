@@ -13,14 +13,14 @@
 30th Sep - Rohaat
 9th Dec - Syeda Fatima Saiko
 # Work
-18th Jan - Saud
-10th Feb - Shaffay
-8th March - Azka
-29th May - Zaryab
-29th June - Hasanat
-24th Aug - Ahmad (to confirm)
-29th Sep - Sir Umair
-# Acquittances
+18th Jan - Saud (Senior DevOps Engineer)
+10th Feb - Shaffay (Colonel)
+8th March - Azka (Pink & Purple leader)
+29th May - Zaryab (Z-man)
+29th June - Hasanat (On this beautiful day)
+24th Aug - Ahmad (Shady)
+29th Sep - [[Dr Umair]]
+# Acquaintances
 27th Jan - Abbas
 5th Feb - Qasim
 10th Feb - Asna
