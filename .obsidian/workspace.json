@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "61c5c6ed5527dfa0",
+        "id": "973e099a70e37337",
         "type": "tabs",
         "children": [
           {
-            "id": "1a3ad39151aaf4e7",
+            "id": "8e4d2ad553bc30e3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "✒️ Projects/The Atomic 2nd/Ideas/Boom boom placement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Boom boom placement"
             }
           }
         ]
@@ -193,8 +197,18 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "1a3ad39151aaf4e7",
+  "active": "8e4d2ad553bc30e3",
   "lastOpenFiles": [
+    "✒️ Projects/The Atomic 2nd/In Progress/some things I added on my own.md",
+    "✒️ Projects/The Atomic 2nd/In Progress/My dream jotted down.md",
+    "✒️ Projects/The Atomic 2nd/In Progress/some inconsistentencies.md",
+    "✒️ Projects/The Atomic 2nd/Places/The Wastelands.md",
+    "✒️ Projects/The Atomic 2nd/Places/The Old World.md",
+    "✒️ Projects/The Atomic 2nd/Places/Neo-pangaea.md",
+    "✒️ Projects/The Atomic 2nd/🪧.md",
+    "✒️ Projects/The Atomic 2nd/Characters/2nd's Family/His Parents.md",
+    "✒️ Projects/The Atomic 2nd/Characters/The 2nd.md",
+    "🖼️ Attachments/5584964973_acd1a4955c_z.jpg",
     "🌍 Atlas/Things/Wants/Piano.md",
     "🗿 Stoned/Birthdays.md",
     "🌍 Atlas/Anime/The one anime with cat girl.md",
@@ -211,10 +225,6 @@
     "✅ Actions/ToDos.md",
     "✅ Actions/Done.md",
     "🌍 Atlas/Things/Needs/Earbuds.md",
-    "🌍 Atlas/Things/Buying/Accessory Shit.md",
-    "🌍 Atlas/Things/Wants/Phone.md",
-    "🌍 Atlas/Things/Wants/Laptop.md",
-    "🌍 Atlas/Things/Wants/Headphones.md",
-    "🌍 Atlas/Things/Wants/Bike.md"
+    "🌍 Atlas/Things/Buying/Accessory Shit.md"
   ]
 }
