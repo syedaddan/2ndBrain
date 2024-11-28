@@ -7,7 +7,7 @@
 13th Nov - Alishba
 8th Dec - Ans
 # Online Friends
-11th Jan - Khadija
+13th Jan - Khadija
 15th Jun - Val
 9th Nov - Maaheen
 30th Sep - Rohaat
