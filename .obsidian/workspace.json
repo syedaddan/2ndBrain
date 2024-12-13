@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✅ Actions/2024-10-04.md",
+                "file": "💭 Thoughts/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-04"
+              "title": "Untitled"
             }
           }
         ]
@@ -83,7 +83,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -197,10 +198,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "9ad19b50cf86e131",
+  "active": "8d7ac793e9ea8048",
   "lastOpenFiles": [
-    "✅ Actions/2024-10-27.md",
     "✅ Actions/2024-10-04.md",
+    "💭 Thoughts/Untitled.md",
+    "✅ Actions/2024-10-27.md",
     "✅ Actions/2024-10-20.md",
     "✒️ Projects/C'est La Vie/Elevator Pitch.md",
     "🗿 Stoned/Gameplan.md",
@@ -224,7 +226,6 @@
     "✒️ Projects/The Atomic 2nd/In Progress/some inconsistentencies.md",
     "✒️ Projects/The Atomic 2nd/Places/The Wastelands.md",
     "✒️ Projects/The Atomic 2nd/Places/The Old World.md",
-    "✒️ Projects/The Atomic 2nd/Places/Neo-pangaea.md",
     "🖼️ Attachments/5584964973_acd1a4955c_z.jpg"
   ]
 }
