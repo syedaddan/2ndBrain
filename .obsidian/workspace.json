@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌍 Atlas/Movies/10 by 10 movies.md",
+                "file": "✅ Actions/2024-10-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 by 10 movies"
+              "title": "2024-10-04"
             }
           }
         ]
@@ -83,8 +83,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,14 +197,20 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "8d7ac793e9ea8048",
+  "active": "9ad19b50cf86e131",
   "lastOpenFiles": [
+    "✅ Actions/2024-10-27.md",
+    "✅ Actions/2024-10-04.md",
+    "✅ Actions/2024-10-20.md",
+    "✒️ Projects/C'est La Vie/Elevator Pitch.md",
+    "🗿 Stoned/Gameplan.md",
+    "🗿 Stoned/Birthdays.md",
+    "🧠 Learn/Music theory.md",
+    "🌍 Atlas/Movies/10 by 10 movies.md",
     "🌍 Atlas/Movies/To rewatch.md",
     "🌍 Atlas/Movies/To watch.md",
-    "🌍 Atlas/Movies/10 by 10 movies.md",
     "💗 Life/Date Ideas.md",
     "💗 Life/Khadija's stuff.md",
-    "🧠 Learn/Music theory.md",
     "🧁 Hello!.md",
     "💭 Thoughts/About.md",
     "💭 Thoughts/The harsh truth.md",
@@ -220,12 +225,6 @@
     "✒️ Projects/The Atomic 2nd/Places/The Wastelands.md",
     "✒️ Projects/The Atomic 2nd/Places/The Old World.md",
     "✒️ Projects/The Atomic 2nd/Places/Neo-pangaea.md",
-    "✒️ Projects/The Atomic 2nd/🪧.md",
-    "✒️ Projects/The Atomic 2nd/Characters/2nd's Family/His Parents.md",
-    "✒️ Projects/The Atomic 2nd/Characters/The 2nd.md",
-    "🖼️ Attachments/5584964973_acd1a4955c_z.jpg",
-    "🌍 Atlas/Things/Wants/Piano.md",
-    "🗿 Stoned/Birthdays.md",
-    "🌍 Atlas/Anime/The one anime with cat girl.md"
+    "🖼️ Attachments/5584964973_acd1a4955c_z.jpg"
   ]
 }
