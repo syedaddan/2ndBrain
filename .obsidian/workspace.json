@@ -72,19 +72,8 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "8d7ac793e9ea8048",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,7 +187,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "8d7ac793e9ea8048",
+  "active": "9ad19b50cf86e131",
   "lastOpenFiles": [
     "✅ Actions/2024-10-04.md",
     "💭 Thoughts/Untitled.md",
