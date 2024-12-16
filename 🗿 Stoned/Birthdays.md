@@ -1,10 +1,12 @@
 # Myself
 4rth Jan
 # Friends
+18th Jan - Saud (Senior DevOps Engineer/Docker Upper Downer)
 27th Jan - Zaidi
 30th June/30th July - Osama
 8th Oct - Hamza Jadoon
 13th Nov - Alishba
+2nd Dec - Wisal (Mr. Lowerated)
 8th Dec - Ans
 # Online Friends
 13th Jan - Khadija
@@ -13,13 +15,12 @@
 30th Sep - Rohaat
 9th Dec - Syeda Fatima Saiko
 # Work
-18th Jan - Saud (Senior DevOps Engineer)
 10th Feb - Shaffay (Colonel)
-8th March - Azka (Pink & Purple leader)
+8th March - Azka
 29th May - Zaryab (Z-man)
 29th June - Hasanat (On this beautiful day)
 24th Aug - Ahmad (Shady)
-29th Sep - [[Dr Umair]]
+29th Sep - Dr Umair
 # Acquaintances
 27th Jan - Abbas
 5th Feb - Qasim

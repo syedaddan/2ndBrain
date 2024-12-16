@@ -1,13 +1,13 @@
 did you know black holes are millions of years old?
-but amazingly some of the black holes that stephen hawking studied were only 14 years old
+but amazingly some of the black holes that Stephen Hawking studied were only 14 years old
 
-what do you call when two transgander midgets have sex?
+what do you call when two transgender midgets have sex?
 micro-trans-action
 
 what do you call a swimming terrorist?
 a bath bomb
 
-why is a threesome with two thai girls like winning a lottery?
+why is a threesome with two Thai girls like winning a lottery?
 cuz there's 6 matching balls
 
 what do you call a gender neutral person who's lactose intolerant?
