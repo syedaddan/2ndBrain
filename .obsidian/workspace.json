@@ -83,7 +83,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -197,7 +198,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "8e4d2ad553bc30e3",
+  "active": "83fedfb6311ba477",
   "lastOpenFiles": [
     "🗿 Stoned/One day after my suicide.md",
     "🗿 Stoned/My Type.md",
