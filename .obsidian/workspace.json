@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "973e099a70e37337",
+        "id": "0f22ee07380390ff",
         "type": "tabs",
         "children": [
           {
-            "id": "8e4d2ad553bc30e3",
+            "id": "92ea05dbd49eaf79",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -195,6 +195,13 @@
   },
   "active": "9ad19b50cf86e131",
   "lastOpenFiles": [
+    "✒️ Projects/The Atomic 2nd/🪧.md",
+    "✒️ Projects/The Atomic 2nd/Places/The Wastelands.md",
+    "✒️ Projects/The Atomic 2nd/Places/Neo-pangaea.md",
+    "✒️ Projects/The Atomic 2nd/Places/The Old World.md",
+    "✒️ Projects/The Atomic 2nd/Characters/2nd's Family/The Sister.md",
+    "✒️ Projects/The Atomic 2nd/Characters/2nd's Family/The Youngest.md",
+    "✒️ Projects/The Atomic 2nd/Characters/The 2nd.md",
     "🗿 Stoned/Some Jokes.md",
     "🗿 Stoned/One day after my suicide.md",
     "🗿 Stoned/My Type.md",
@@ -214,13 +221,6 @@
     "💗 Life/Date Ideas.md",
     "💗 Life/Khadija's stuff.md",
     "🧁 Hello!.md",
-    "💭 Thoughts/About.md",
-    "💭 Thoughts/The harsh truth.md",
-    "💭 Thoughts/A very important question.md",
-    "☁️ Ideas/Language Learning through Native Speakers.md",
-    "💭 Thoughts/Insomniacs.md",
-    "☁️ Ideas/Therapy Bridge.md",
-    "✒️ Projects/The Atomic 2nd/Ideas/Boom boom placement.md",
     "🖼️ Attachments/5584964973_acd1a4955c_z.jpg"
   ]
 }
