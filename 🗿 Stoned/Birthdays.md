@@ -3,7 +3,7 @@
 # Friends
 18th Jan - Saud (Senior DevOps Engineer/Docker Upper Downer)
 27th Jan - Zaidi
-30th June - Osama
+30th June - Osama (main)
 8th Oct - Hamza Jadoon
 13th Nov - Alishba
 2nd Dec - Wisal (Mr. Lowerated)
