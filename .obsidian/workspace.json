@@ -83,7 +83,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -197,7 +198,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "92ea05dbd49eaf79",
+  "active": "83fedfb6311ba477",
   "lastOpenFiles": [
     "🗿 Stoned/Birthdays.md",
     "✒️ Projects/The Atomic 2nd/🪧.md",
