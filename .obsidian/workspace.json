@@ -83,8 +83,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,8 +197,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "83fedfb6311ba477",
+  "active": "92ea05dbd49eaf79",
   "lastOpenFiles": [
+    "✅ Actions/2025-01-15.md",
+    "✅ Actions/2025-01-13.md",
     "🗿 Stoned/Birthdays.md",
     "✒️ Projects/The Atomic 2nd/🪧.md",
     "✒️ Projects/The Atomic 2nd/Places/The Wastelands.md",
@@ -224,8 +225,6 @@
     "🌍 Atlas/Movies/To rewatch.md",
     "🌍 Atlas/Movies/To watch.md",
     "💗 Life/Date Ideas.md",
-    "💗 Life/Khadija's stuff.md",
-    "🧁 Hello!.md",
     "🖼️ Attachments/5584964973_acd1a4955c_z.jpg"
   ]
 }

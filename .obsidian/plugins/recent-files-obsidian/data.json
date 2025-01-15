@@ -5,6 +5,10 @@
       "path": "✅ Actions/2025-01-13.md"
     },
     {
+      "basename": "2025-01-15",
+      "path": "✅ Actions/2025-01-15.md"
+    },
+    {
       "basename": "Birthdays",
       "path": "🗿 Stoned/Birthdays.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Accessory Shit",
       "path": "🌍 Atlas/Things/Buying/Accessory Shit.md"
-    },
-    {
-      "basename": "Phone",
-      "path": "🌍 Atlas/Things/Wants/Phone.md"
     }
   ],
   "omittedPaths": [],
