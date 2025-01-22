@@ -1,4 +1,4 @@
-**Dates: October 7th, 2024 – February 4th, 2025**
+**Dates: October 7th, 2024 – February 6th, 2025**
 https://ipcv.eu/application-and-selection/apply-now/
 
 #### Required documents for application

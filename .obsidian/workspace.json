@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✅ Actions/2025-01-15.md",
+                "file": "🌍 Atlas/Masters or PHD/ISTA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-15"
+              "title": "ISTA"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "emai",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,12 +83,11 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 272.5
   },
   "right": {
     "id": "2b811a2b94022fad",
@@ -198,10 +197,13 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "83fedfb6311ba477",
+  "active": "9ad19b50cf86e131",
   "lastOpenFiles": [
-    "✅ Actions/2025-01-13.md",
+    "🌍 Atlas/Masters or PHD/MEXT",
+    "🌍 Atlas/Masters or PHD/Erasmus/IPCV.md",
+    "🌍 Atlas/Masters or PHD/Erasmus/EMAI.md",
     "✅ Actions/2025-01-15.md",
+    "✅ Actions/2025-01-13.md",
     "🗿 Stoned/Birthdays.md",
     "✒️ Projects/The Atomic 2nd/🪧.md",
     "✒️ Projects/The Atomic 2nd/Places/The Wastelands.md",
@@ -223,9 +225,6 @@
     "✒️ Projects/C'est La Vie/Elevator Pitch.md",
     "🧠 Learn/Music theory.md",
     "🌍 Atlas/Movies/10 by 10 movies.md",
-    "🌍 Atlas/Movies/To rewatch.md",
-    "🌍 Atlas/Movies/To watch.md",
-    "💗 Life/Date Ideas.md",
     "🖼️ Attachments/5584964973_acd1a4955c_z.jpg"
   ]
 }
