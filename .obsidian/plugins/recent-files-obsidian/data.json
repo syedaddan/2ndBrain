@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Readme",
+      "path": "Readme.md"
+    },
+    {
       "basename": "ISTA",
       "path": "🌍 Atlas/Masters or PHD/ISTA.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Earbuds",
       "path": "🌍 Atlas/Things/Needs/Earbuds.md"
-    },
-    {
-      "basename": "Accessory Shit",
-      "path": "🌍 Atlas/Things/Buying/Accessory Shit.md"
     }
   ],
   "omittedPaths": [],

@@ -63,12 +63,34 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "8480e34664785a5c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "24dc4c7625f4c253",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "right": {
     "id": "2b811a2b94022fad",
@@ -178,7 +200,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "9ad19b50cf86e131",
+  "active": "24dc4c7625f4c253",
   "lastOpenFiles": [
     "🌍 Atlas/Masters or PHD/ISTA.md",
     "🌍 Atlas/Masters or PHD/MEXT",
