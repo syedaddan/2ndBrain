@@ -13,4 +13,4 @@ The 2nd left the house after his deadline with all of his belongings, memorials,
 
 
 
-After this we have [[✒️ Projects/The Atomic 2nd/In Progress/some things I added on my own]] but also [[✒️ Projects/The Atomic 2nd/In Progress/some inconsistentencies]]. 
+After this we have [[some things I added on my own]] but also [[some inconsistentencies]]. 
