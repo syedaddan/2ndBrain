@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Readme",
-      "path": "Readme.md"
+      "basename": "Challenges",
+      "path": "✒️ Projects/The Atomic 2nd/In Progress/Challenges.md"
+    },
+    {
+      "basename": "My dream jotted down",
+      "path": "✒️ Projects/The Atomic 2nd/In Progress/My dream jotted down.md"
+    },
+    {
+      "basename": "🪧",
+      "path": "✒️ Projects/The Atomic 2nd/🪧.md"
+    },
+    {
+      "basename": "Neo-pangaea",
+      "path": "✒️ Projects/The Atomic 2nd/Places/Neo-pangaea.md"
+    },
+    {
+      "basename": "2024-05-26",
+      "path": "✅ Actions/2024-05-26.md"
     },
     {
       "basename": "ISTA",
@@ -29,16 +45,8 @@
       "path": "🗿 Stoned/Birthdays.md"
     },
     {
-      "basename": "🪧",
-      "path": "✒️ Projects/The Atomic 2nd/🪧.md"
-    },
-    {
       "basename": "The Wastelands",
       "path": "✒️ Projects/The Atomic 2nd/Places/The Wastelands.md"
-    },
-    {
-      "basename": "Neo-pangaea",
-      "path": "✒️ Projects/The Atomic 2nd/Places/Neo-pangaea.md"
     },
     {
       "basename": "The Old World",
@@ -153,10 +161,6 @@
       "path": "✒️ Projects/The Atomic 2nd/In Progress/some things I added on my own.md"
     },
     {
-      "basename": "My dream jotted down",
-      "path": "✒️ Projects/The Atomic 2nd/In Progress/My dream jotted down.md"
-    },
-    {
       "basename": "some inconsistentencies",
       "path": "✒️ Projects/The Atomic 2nd/In Progress/some inconsistentencies.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Done",
       "path": "✅ Actions/Done.md"
-    },
-    {
-      "basename": "Earbuds",
-      "path": "🌍 Atlas/Things/Needs/Earbuds.md"
     }
   ],
   "omittedPaths": [],
