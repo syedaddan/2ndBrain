@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "✒️ Projects/The Atomic 2nd/In Progress/Challenges.md",
+                "file": "🗿 Stoned/My Type.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Challenges"
+              "title": "My Type"
             }
           }
         ]
@@ -76,6 +76,16 @@
           },
           {
             "id": "24dc4c7625f4c253",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3eecca061ef54c51",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -200,14 +210,19 @@
   },
   "active": "ac6bce14c249ecf9",
   "lastOpenFiles": [
-    "✒️ Projects/The Atomic 2nd/In Progress/My dream jotted down.md",
+    "Readme.md",
+    "🗿 Stoned/My College Roll Number.md",
+    "🗿 Stoned/My Type.md",
+    "🗿 Stoned/One day after my suicide.md",
+    "🗿 Stoned/Some Jokes.md",
+    "🧠 Learn/Music theory.md",
     "✒️ Projects/The Atomic 2nd/In Progress/Challenges.md",
+    "✒️ Projects/The Atomic 2nd/In Progress/My dream jotted down.md",
     "✒️ Projects/The Atomic 2nd/Untitled.canvas",
     "✒️ Projects/The Atomic 2nd/In Progress/Untitled",
     "✒️ Projects/The Atomic 2nd/Places/Neo-pangaea.md",
     "✒️ Projects/The Atomic 2nd/🪧.md",
     "✅ Actions/2024-05-26.md",
-    "Readme.md",
     "🌍 Atlas/Masters or PHD/ISTA.md",
     "🌍 Atlas/Masters or PHD/MEXT",
     "🌍 Atlas/Masters or PHD/Erasmus/IPCV.md",
@@ -220,15 +235,10 @@
     "✒️ Projects/The Atomic 2nd/Characters/2nd's Family/The Sister.md",
     "✒️ Projects/The Atomic 2nd/Characters/2nd's Family/The Youngest.md",
     "✒️ Projects/The Atomic 2nd/Characters/The 2nd.md",
-    "🗿 Stoned/Some Jokes.md",
-    "🗿 Stoned/One day after my suicide.md",
-    "🗿 Stoned/My Type.md",
-    "🗿 Stoned/My College Roll Number.md",
     "🗿 Stoned/MetaMask.md",
     "🗿 Stoned/Gameplan.md",
     "💭 Thoughts/Untitled.md",
     "✅ Actions/2024-10-04.md",
-    "✅ Actions/2024-10-27.md",
     "🖼️ Attachments/5584964973_acd1a4955c_z.jpg"
   ]
 }
