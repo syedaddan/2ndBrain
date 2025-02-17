@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗿 Stoned/My Type.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My Type"
+              "title": "Readme"
             }
           }
         ]
@@ -80,8 +80,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -210,9 +210,9 @@
   },
   "active": "ac6bce14c249ecf9",
   "lastOpenFiles": [
+    "🗿 Stoned/My Type.md",
     "Readme.md",
     "🗿 Stoned/My College Roll Number.md",
-    "🗿 Stoned/My Type.md",
     "🗿 Stoned/One day after my suicide.md",
     "🗿 Stoned/Some Jokes.md",
     "🧠 Learn/Music theory.md",

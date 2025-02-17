@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Readme",
+      "path": "Readme.md"
+    },
+    {
       "basename": "My Type",
       "path": "🗿 Stoned/My Type.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ToDos",
       "path": "✅ Actions/ToDos.md"
-    },
-    {
-      "basename": "Done",
-      "path": "✅ Actions/Done.md"
     }
   ],
   "omittedPaths": [],
