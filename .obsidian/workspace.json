@@ -73,26 +73,6 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "24dc4c7625f4c253",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
-          },
-          {
-            "id": "3eecca061ef54c51",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
-            }
           }
         ]
       }
@@ -208,10 +188,10 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "ac6bce14c249ecf9",
+  "active": "9ad19b50cf86e131",
   "lastOpenFiles": [
-    "🗿 Stoned/My Type.md",
     "Readme.md",
+    "🗿 Stoned/My Type.md",
     "🗿 Stoned/My College Roll Number.md",
     "🗿 Stoned/One day after my suicide.md",
     "🗿 Stoned/Some Jokes.md",
