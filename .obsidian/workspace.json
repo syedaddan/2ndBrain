@@ -165,13 +165,23 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "a2fa4f56e94f8521",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 485.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,7 +198,7 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "9ad19b50cf86e131",
+  "active": "ac6bce14c249ecf9",
   "lastOpenFiles": [
     "Readme.md",
     "🗿 Stoned/My Type.md",
