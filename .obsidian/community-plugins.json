@@ -1,10 +1,4 @@
 [
-  "dataview",
-  "table-editor-obsidian",
-  "calendar",
-  "templater-obsidian",
   "obsidian-git",
-  "nldates-obsidian",
-  "obsidian-tasks-plugin",
-  "insert-unsplash-image"
+  "obsidian-tasks-plugin"
 ]

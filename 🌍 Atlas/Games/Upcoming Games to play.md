@@ -1,3 +1,5 @@
 [[Kemuri]]
 [[Blade]]
 [[Last sentinel]]
+[[Tides of Annihilation]]
+[[Stellar ]]
