@@ -2,4 +2,7 @@
 [[Blade]]
 [[Last sentinel]]
 [[Tides of Annihilation]]
-[[Stellar ]]
+[[Stellar Blade]]
+[[Hell is us]]
+[[Reanimal]]
+
