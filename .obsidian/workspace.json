@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8f011cbebdf9e809",
+        "id": "0f56bbf88b2be4bf",
         "type": "tabs",
         "children": [
           {
-            "id": "ac6bce14c249ecf9",
+            "id": "38b9238cb3a13cdb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌍 Atlas/Games/Upcoming Games to play.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Upcoming Games to play"
+              "title": "New tab"
             }
           }
         ]
@@ -185,10 +181,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac6bce14c249ecf9",
+  "active": "9ad19b50cf86e131",
   "lastOpenFiles": [
-    "🌍 Atlas/Games/Games to play.md",
+    "💭 Thoughts/Death Stranding 2.md",
     "🌍 Atlas/Games/Upcoming Games to play.md",
+    "🌍 Atlas/Games/Games to play.md",
     "Readme.md",
     "🗿 Stoned/My Type.md",
     "🗿 Stoned/My College Roll Number.md",
@@ -215,7 +212,6 @@
     "✒️ Projects/The Atomic 2nd/Characters/2nd's Family/The Youngest.md",
     "✒️ Projects/The Atomic 2nd/Characters/The 2nd.md",
     "🗿 Stoned/MetaMask.md",
-    "🗿 Stoned/Gameplan.md",
     "🖼️ Attachments/5584964973_acd1a4955c_z.jpg"
   ]
 }
