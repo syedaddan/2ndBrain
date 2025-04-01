@@ -1,0 +1,4 @@
+- new - Bag
+- Zaify - 5000
+- Mama - 45000
+- Bills ~ 40000
