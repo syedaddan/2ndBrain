@@ -11,10 +11,14 @@
             "id": "38b9238cb3a13cdb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "💭 Thoughts/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled 1"
             }
           }
         ]
@@ -181,8 +185,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ad19b50cf86e131",
+  "active": "38b9238cb3a13cdb",
   "lastOpenFiles": [
+    "💭 Thoughts/Untitled 1.md",
     "💭 Thoughts/Death Stranding 2.md",
     "🌍 Atlas/Games/Upcoming Games to play.md",
     "🌍 Atlas/Games/Games to play.md",
@@ -211,7 +216,6 @@
     "✒️ Projects/The Atomic 2nd/Characters/2nd's Family/The Sister.md",
     "✒️ Projects/The Atomic 2nd/Characters/2nd's Family/The Youngest.md",
     "✒️ Projects/The Atomic 2nd/Characters/The 2nd.md",
-    "🗿 Stoned/MetaMask.md",
     "🖼️ Attachments/5584964973_acd1a4955c_z.jpg"
   ]
 }
