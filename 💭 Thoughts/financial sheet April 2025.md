@@ -1,4 +1,5 @@
-- new - Bag
+- new Bag
 - Zaify - 5000
 - Mama - 45000
 - Bills ~ 40000
+- Bike Oil change
