@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0f56bbf88b2be4bf",
+        "id": "b2f3fc951b566b09",
         "type": "tabs",
         "children": [
           {
-            "id": "38b9238cb3a13cdb",
+            "id": "e7faba9dcf612280",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,11 +185,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38b9238cb3a13cdb",
+  "active": "e7faba9dcf612280",
   "lastOpenFiles": [
+    "🌍 Atlas/Games/Upcoming Games to play.md",
+    "💭 Thoughts/Untitled.md",
+    "💭 Thoughts/About.md",
+    "💭 Thoughts/A very important question.md",
     "💭 Thoughts/financial sheet April 2025.md",
     "💭 Thoughts/Death Stranding 2.md",
-    "🌍 Atlas/Games/Upcoming Games to play.md",
     "🌍 Atlas/Games/Games to play.md",
     "Readme.md",
     "🗿 Stoned/My Type.md",
@@ -213,9 +216,6 @@
     "🗿 Stoned/Birthdays.md",
     "✒️ Projects/The Atomic 2nd/Places/The Wastelands.md",
     "✒️ Projects/The Atomic 2nd/Places/The Old World.md",
-    "✒️ Projects/The Atomic 2nd/Characters/2nd's Family/The Sister.md",
-    "✒️ Projects/The Atomic 2nd/Characters/2nd's Family/The Youngest.md",
-    "✒️ Projects/The Atomic 2nd/Characters/The 2nd.md",
     "🖼️ Attachments/5584964973_acd1a4955c_z.jpg"
   ]
 }

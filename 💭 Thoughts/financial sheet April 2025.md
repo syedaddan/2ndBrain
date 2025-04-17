@@ -1,5 +1,9 @@
-- new Bag
-- Zaify - 5000
-- Mama - 45000
-- Bills ~ 40000
-- Bike Oil change
+- [ ] new Bag
+- [x] Zaify - 5000 ✅ 2025-04-03
+- [x] Mama - 45000 ✅ 2025-04-03
+- [x] Bills ~ 40000 ✅ 2025-04-03
+- [ ] Bike Oil change and Fix
+- [ ] New Bike
+- [ ] New Phone
+- [ ] Saud bhai
+- [x] Humayoun - 4300 ✅ 2025-04-03
