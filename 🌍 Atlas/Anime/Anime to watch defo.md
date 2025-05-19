@@ -7,7 +7,7 @@
 - [ ] [[Bunguo stray dogs]]
 - [ ] [[Dr. Stone]]
 - [ ] [[Monogatari]] (yessssssss thissss)
-- [ ] [[Black clover]] (absofuckinglutely)
+- [ ] [[Black clover]]
 - [ ] [[One piece]] (😬)
 - [ ] [[Mushishi]]
 - [x] [[Mushoku tensei]]
@@ -30,3 +30,4 @@
 - [ ] [[Kakegurui]]
 - [ ] [[Scavengers reign]]
 - [ ] [[Arcane Season 2]] ☝🏽
+- [ ] [[Astra: Lost in Space]]

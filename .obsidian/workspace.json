@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "8d8f8597739cb615",
+    "id": "69e6635ce52958c7",
     "type": "split",
     "children": [
       {
-        "id": "b2f3fc951b566b09",
+        "id": "9334209f873a74ba",
         "type": "tabs",
         "children": [
           {
-            "id": "e7faba9dcf612280",
+            "id": "4bad03c6ecaeec7f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💵 Finances/05-2025.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "05-2025"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6680c63f106dde7f",
+    "id": "1f82ee11b64f162e",
     "type": "split",
     "children": [
       {
-        "id": "dd75cb5df360b9c3",
+        "id": "e4a1f16172c56fda",
         "type": "tabs",
         "children": [
           {
-            "id": "9ad19b50cf86e131",
+            "id": "c59fdce7f0b5545f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +44,12 @@
             }
           },
           {
-            "id": "a24f67f4598bd90a",
+            "id": "74666d44d8c61a68",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "emai",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "8480e34664785a5c",
+            "id": "f51291ae97c9b955",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,18 +74,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 300
   },
   "right": {
-    "id": "2b811a2b94022fad",
+    "id": "5526ddaaa1430b4e",
     "type": "split",
     "children": [
       {
-        "id": "c310717379a30a86",
+        "id": "93b9c57ff31ac294",
         "type": "tabs",
         "children": [
           {
-            "id": "41d32c214f11fec5",
+            "id": "846ba00a1a3090cb",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -107,7 +103,7 @@
             }
           },
           {
-            "id": "9384e7fa61e4142e",
+            "id": "347f8dbf3a2f632e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -120,20 +116,22 @@
             }
           },
           {
-            "id": "1f32b0798a8acf77",
+            "id": "e4302b350a08f4e6",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "ee4194a0fa6c7425",
+            "id": "74c5dc60f3635a7d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,31 +145,24 @@
             }
           },
           {
-            "id": "755dca40c6e9033c",
+            "id": "8556fa8d0f5f76da",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "a2fa4f56e94f8521",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 485.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -185,37 +176,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7faba9dcf612280",
-  "lastOpenFiles": [
-    "🗿 Stoned/Birthdays.md",
-    "💵 Finances/05-2025.md",
-    "💵 Finances/04-2025.md",
-    "💵 Finances",
-    "🌍 Atlas/Games/Upcoming Games to play.md",
-    "💭 Thoughts/About.md",
-    "💭 Thoughts/A very important question.md",
-    "💭 Thoughts/Death Stranding 2.md",
-    "🌍 Atlas/Games/Games to play.md",
-    "Readme.md",
-    "🗿 Stoned/My Type.md",
-    "🗿 Stoned/My College Roll Number.md",
-    "🗿 Stoned/One day after my suicide.md",
-    "🗿 Stoned/Some Jokes.md",
-    "🧠 Learn/Music theory.md",
-    "✒️ Projects/The Atomic 2nd/In Progress/Challenges.md",
-    "✒️ Projects/The Atomic 2nd/In Progress/My dream jotted down.md",
-    "✒️ Projects/The Atomic 2nd/Untitled.canvas",
-    "✒️ Projects/The Atomic 2nd/In Progress/Untitled",
-    "✒️ Projects/The Atomic 2nd/Places/Neo-pangaea.md",
-    "✒️ Projects/The Atomic 2nd/🪧.md",
-    "✅ Actions/2024-05-26.md",
-    "🌍 Atlas/Masters or PHD/ISTA.md",
-    "🌍 Atlas/Masters or PHD/MEXT",
-    "🌍 Atlas/Masters or PHD/Erasmus/IPCV.md",
-    "🌍 Atlas/Masters or PHD/Erasmus/EMAI.md",
-    "✅ Actions/2025-01-15.md",
-    "✅ Actions/2025-01-13.md",
-    "✒️ Projects/The Atomic 2nd/Places/The Wastelands.md",
-    "🖼️ Attachments/5584964973_acd1a4955c_z.jpg"
-  ]
+  "active": "4bad03c6ecaeec7f",
+  "lastOpenFiles": []
 }
