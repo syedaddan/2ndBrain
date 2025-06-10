@@ -1,11 +1,10 @@
 # Myself
 4rth Jan
 # Friends
-18th Jan - Saud (Senior DevOps Engineer/Docker Upper Downer)
+18th Jan - Saud (Senior DevOps Engineer)
 27th Jan - Zaidi
 30th June - Osama (main)
 8th Oct - Hamza Jadoon
-13th Nov - Alishba
 2nd Dec - Wisal (Mr. Lowerated)
 # Online Friends
 13th Jan - Khadija
@@ -20,6 +19,7 @@
 29th June - Hasanat (On this beautiful day)
 24th Aug - Ahmad (Shady)
 29th Sep - Dr Umair
+13th Nov - Alishba
 # Acquaintances
 27th Jan - Abbas
 5th Feb - Qasim

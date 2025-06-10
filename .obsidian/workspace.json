@@ -11,10 +11,14 @@
             "id": "793119275e58bb3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "🗿 Stoned/Birthdays.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Birthdays"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 226.5
   },
   "right": {
     "id": "5526ddaaa1430b4e",
@@ -179,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c59fdce7f0b5545f",
+  "active": "793119275e58bb3e",
   "lastOpenFiles": [
     "💭 Thoughts/Herman Melville.md",
     "💭 Thoughts/Crime and Punishment.md",
