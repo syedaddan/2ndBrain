@@ -19,7 +19,7 @@
 29th June - Hasanat (On this beautiful day)
 24th Aug - Ahmad (Shady)
 29th Sep - Dr Umair
-2nd 
+2nd Oct - Afzal
 13th Nov - Alishba
 # Acquaintances
 27th Jan - Abbas
