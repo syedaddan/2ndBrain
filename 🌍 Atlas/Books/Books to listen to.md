@@ -1,3 +1,3 @@
 [[Caraval]] Series
 [[Dune]]
-[[Once upon a broken heart]] series
+[[The lord of the rings]] Series
