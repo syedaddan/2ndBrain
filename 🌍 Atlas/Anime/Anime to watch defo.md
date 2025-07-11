@@ -30,4 +30,4 @@
 - [ ] [[Kakegurui]]
 - [ ] [[Scavengers reign]]
 - [ ] [[Arcane Season 2]] ☝🏽
-- [ ] [[Astra: Lost in Space]]
+- [x] [[Astra: Lost in Space]] ✅ 2025-07-11
