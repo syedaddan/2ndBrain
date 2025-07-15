@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,7 +184,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ac09ebf6a69e251",
+  "active": "74666d44d8c61a68",
   "lastOpenFiles": [
     "🌍 Atlas/Books/Classic books to read.md",
     "💭 Thoughts/Fyodor Dostoevsky.md",
