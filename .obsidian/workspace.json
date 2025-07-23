@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "be2129df514fbf14",
+        "id": "7a14eeee6539da2c",
         "type": "tabs",
         "children": [
           {
-            "id": "0ac09ebf6a69e251",
+            "id": "ba2c86e112b59fc6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌍 Atlas/Books/Good books.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Good books"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dar",
+                "query": "dark",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,8 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74666d44d8c61a68",
+  "active": "c59fdce7f0b5545f",
   "lastOpenFiles": [
+    "🗿 Stoned/Some Jokes.md",
+    "🌍 Atlas/Books/Good books.md",
     "🌍 Atlas/Books/Classic books to read.md",
     "💭 Thoughts/Fyodor Dostoevsky.md",
     "💭 Thoughts/Charlotte Perkins Gilman.md",
