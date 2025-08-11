@@ -1,6 +1,6 @@
 # 2ndBrain 🧠
 
-Welcome to my 2nd Brain, an attempt to organize my messy ass brain. 
+Welcome to my 2nd Brain, an attempt to organize my messy ass brain. Formerly named ObsiVault.
 
 ## What's Inside?
 
