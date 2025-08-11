@@ -1,6 +1,6 @@
-# 2ndBrain
+# 2ndBrain 🧠
 
-Welcome to my 2ndBrain - a digital space where I stash all the stuff my mind can’t seem to keep track of. From random ideas to everyday reminders, this repository is my way of saving thoughts before they vanish into the abyss.
+Welcome to my 2nd Brain - a digital space where I stash all the stuff my mind can’t seem to keep track of. From random ideas to everyday reminders, this repository is my way of saving thoughts before they vanish into the abyss.
 
 ## What's Inside?
 
@@ -19,7 +19,7 @@ Welcome to my 2ndBrain - a digital space where I stash all the stuff my mind can
 - **💗 Life**
   Personal notes, stories, and reflections on the ups and downs of everyday life.
 
-- **💗 Life**
+- **💭 Thoughts**
   A catch-all for musings that don’t really fit anywhere else.
 
 - **📎 Extras**
