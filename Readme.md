@@ -1,14 +1,14 @@
 # 2ndBrain 🧠
 
-Welcome to my 2nd Brain, an attempt to organize my messy ass brain. Formerly named ObsiVault.
+Welcome to my 2nd Brain, an attempt to organize my messy ass brain. Formerly known as ObsiVault (shit name i know).
 
 ## What's Inside?
 
 - **☁️ Ideas**
-  Those spontaneous ideas that pop up when you least expect them.
+  Any interesting or uninteresting idea for a project that pops up in my brain.
 
 - **✅ Actions**
-  My simple to-do lists and task reminders—because even a regular guy needs a nudge sometimes.
+  Any thing that i need to do but have so little braincells to remember.
 
 - **✒️ Projects**
   Outlines and drafts for projects, big or small, that I’m working on (or dreaming about).
@@ -22,26 +22,24 @@ Welcome to my 2nd Brain, an attempt to organize my messy ass brain. Formerly nam
 - **💭 Thoughts**
   A catch-all for musings that don’t really fit anywhere else.
 
-- **📎 Extras**
+- **💵 Finances**
+  Managing my broke ass here.
+
+- **🖼️ Attachments**
   Miscellaneous clippings and files that I find useful, even if they’re a bit random.
 
-- **🎉 Done & Dusted**  
+- **🗿 Stoned**
   Final versions of work that have been polished and are ready to be considered complete.
 
-- **📚 Learning Bits**  
+- **🧠 Learn**
   Bits of knowledge and notes from the things I pick up along the way.
-
-## Why 2ndBrain?
-
-Let’s be honest—our minds are messy. This repository is my attempt to capture those fleeting ideas and keep track of my everyday thoughts, tasks, and experiences. It helps me stay organized and ensures that I don’t lose the good stuff (or the funny stuff) along the way.
-
 ## How I Use It
 
 I run this setup using Obsidian, which makes linking and organizing my notes a breeze. It might not be perfect, but it does the trick in keeping my thoughts from getting lost in the daily shuffle.
 
 ## Take a Look Around
 
-Feel free to browse through my 2ndBrain. If you have any feedback, a funny remark, or just want to say hi, drop me a message. I’m always up for a chat about ideas—or life in general.
+Feel free to browse through my 2ndBrain. If you have any feedback, a funny remark, or just want to say hi, drop me a message. I’m always up for a chat about ideas or life in general.
 
 ---
 
