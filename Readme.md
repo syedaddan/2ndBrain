@@ -4,25 +4,25 @@ Welcome to my 2ndBrain - a digital space where I stash all the stuff my mind can
 
 ## What's Inside?
 
-- **💡 Lightbulb Moments**  
+- **☁️ Ideas**
   Those spontaneous ideas that pop up when you least expect them.
 
-- **✅ Get It Done**  
+- **✅ Actions**
   My simple to-do lists and task reminders—because even a regular guy needs a nudge sometimes.
 
-- **✒️ Master Plans**  
+- **✒️ Projects**
   Outlines and drafts for projects, big or small, that I’m working on (or dreaming about).
 
-- **🗺 Mind Map**  
+- **🌍 Atlas**
   A basic guide through my interconnected notes and topics—helping me (and maybe you) navigate my thought maze.
 
-- **❤️ Life Stuff**  
+- **💗 Life**
   Personal notes, stories, and reflections on the ups and downs of everyday life.
 
-- **🤔 Random Thoughts**  
+- **💗 Life**
   A catch-all for musings that don’t really fit anywhere else.
 
-- **📎 Extras**  
+- **📎 Extras**
   Miscellaneous clippings and files that I find useful, even if they’re a bit random.
 
 - **🎉 Done & Dusted**  
