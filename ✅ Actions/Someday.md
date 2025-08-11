@@ -1,6 +1,6 @@
 # Wants
 - [ ] watch frieren back in dub 🔼 ➕ 2024-11-10 
-- [ ] buy [[Bike]] ⏫ ➕ 2024-11-11 
+- [x] buy [[Bike]] ⏫ ➕ 2024-11-11 ✅ 2025-08-11
 - [ ] buy [[Headphones]] 🔼 ➕ 2024-11-11 
 - [ ] buy [[Laptop]] 🔼 ➕ 2024-11-11 
 - [ ] buy [[Phone]] 🔼 ➕ 2024-11-11 
